@@ -1,5 +1,23 @@
 
-
+- [Gameplay Issues](#gameplay-issues)
+  - [I don't have one of those ancient NUMPADs! How am I gonna use OStim?](#i-dont-have-one-of-those-ancient-numpads-how-am-i-gonna-use-ostim)
+  - [Leveling up isn't working!](#leveling-up-isnt-working)
+  - [My weapons are swinging too fast or too slow!](#my-weapons-are-swinging-too-fast-or-too-slow)
+  - [I love the paraglider mod, but I keep dying when I land!](#i-love-the-paraglider-mod-but-i-keep-dying-when-i-land)
+  - [The tuning gloves in Winterhold seem to be acting up.](#the-tuning-gloves-in-winterhold-seem-to-be-acting-up)
+  - [The Civil War questline is horribly messed up. I can't complete the Battle(s) of Whiterun / Solitude / Windhelm. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric(a)/Tullius!](#the-civil-war-questline-is-horribly-messed-up-i-cant-complete-the-battles-of-whiterun--solitude--windhelm-people-are-inverting-backwards-off-the-ground-enemies-dont-stop-spawning-theres-no-ulfricatullius)
+  - [I can't complete the bandit raid quest for Whiterun (or another city)](#i-cant-complete-the-bandit-raid-quest-for-whiterun-or-another-city)
+  - [I'm trying to kill the Necromancers for Undeath and the quest won't complete.](#im-trying-to-kill-the-necromancers-for-undeath-and-the-quest-wont-complete)
+  - [I can't find the attack site that Lan describes in Riverwood.](#i-cant-find-the-attack-site-that-lan-describes-in-riverwood)
+  - [I set OStim to Auto Mode and things got weird.](#i-set-ostim-to-auto-mode-and-things-got-weird)
+- [Technical Issues](#technical-issues)
+  - [I crashed!](#i-crashed)
+  - [I'm randomly crashing!](#im-randomly-crashing)
+  - [My performance is really terrible, low FPS, input lag during combat!](#my-performance-is-really-terrible-low-fps-input-lag-during-combat)
+  - [I have a bug that's not in this list.](#i-have-a-bug-thats-not-in-this-list)
+  - [I crash in Project AHO when I complete a certain quest!](#i-crash-in-project-aho-when-i-complete-a-certain-quest)
+  - [I can't take two steps in Lucien's final dungeon without freezing or crashing!](#i-cant-take-two-steps-in-luciens-final-dungeon-without-freezing-or-crashing)
+  - [My quests have started to disappear from my Quest Log.](#my-quests-have-started-to-disappear-from-my-quest-log)
 # Gameplay Issues
 ## I don't have one of those ancient NUMPADs! How am I gonna use OStim?
 

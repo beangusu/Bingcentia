@@ -2,8 +2,6 @@
 
 ## THIS LIST ALSO REQUIRES THE MOST RECENT VERSION OF SKYRIM ALONG WITH THE $20 AE DLC!
 
-***
-
 - [PLEASE DO NOT CLOSE THIS! This modlist WILL NOT FUNCTION unless you follow the steps in this document!](#please-do-not-close-this-this-modlist-will-not-function-unless-you-follow-the-steps-in-this-document)
   - [THIS LIST ALSO REQUIRES THE MOST RECENT VERSION OF SKYRIM ALONG WITH THE $20 AE DLC!](#this-list-also-requires-the-most-recent-version-of-skyrim-along-with-the-20-ae-dlc)
 - [Preamble](#preamble)

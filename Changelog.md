@@ -4,6 +4,8 @@
 
 Personal additions that I enjoy:
 
+- Realm of Lorkhan
+  > with iAmMe's mod to add a vanity mirror
 - Bunch of Particle Lights
 - Stalhrim Source
 - Iconic's Moon Crest Texture
@@ -14,14 +16,19 @@ Personal additions that I enjoy:
 - Elizabeth's Tower - Azura Shrine
 - Awesome Sigil Stones
 - Rustic Furniture and some other furniture retexes
+-  Skyrim 3D Trees and Plants
+> Patched so that we only use the plants from that mod
+- Fuckton of JohnSkyrim's shiny retextures including his recent daggers overhaul
 - Immersive Equipment Displays with Missile's Presets
 - Awesome Potions Simplified with a patch for LOTD
-- Skyrim 3D Trees and Plants
-> Patched so that we only use the plants from that mod
 - Bunch of Jayserpa mods like Take A Peek, NPC's wear Amulets of Mara, Conditional Expressions + more
+- LOTD Armoury Addon to make it look more lively
+- Critterspawn Congestion Fix
 - Some Bodyslide Presets
-- Fuckton of JohnSkyrim's shiny retextures
-- Redid the UI slightly with mods I like
+- Octavian's SmoothCam Preset + EasyEase Smoothcam Preset
+- Simple Outfit System
+- Redid the UI slightly with mods like Dialogue Interface Reshaped and Sanguis Font
+- Nordic...ish UI for TrueHUD
 - Flat Maps!
 <br>
 .. And a bunch of other things that are too long to list here
@@ -32,11 +39,11 @@ Personal additions that I enjoy:
 
 Things I removed from the main list:
 
-- Alduin's Reign Main Menu 
+- Alduin's Reign Main Menu + new main menu music i forgot its called its cool tho
 > Replaced with Paramount Main Menu
 - Verydosebrom 
 - Volumetric Mists
-> Had skybox issues with the current ENB
+> Had skybox issues with some ENBS
 - Improved Camera
 - Alternate Start
 > Replaced with Realm of Lorkhan
@@ -51,7 +58,7 @@ Things I removed from the main list:
 - Genesis Unleashed
 - Mihail's monsters
 - Sofia and Vilja
-> Self-explanatory
+> Not a fan of them and Sofia keeps taking off her fuckign clothes!!
 - Gladys and Merlin
 - Eekie's Kaidan
 > Replaced with High Poly Kaidan
@@ -61,5 +68,6 @@ Things I removed from the main list:
 > Made LOTD too bright with the current ENB
 - Fixed Mesh Lighting 
 > Was a headache to make sure everything was working
+> 
 <br>
 ... Plus many other removals that are too long to list also

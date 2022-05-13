@@ -17,7 +17,7 @@ Personal additions that I enjoy:
 - Awesome Sigil Stones
 - Rustic Furniture and some other furniture retexes
 -  Skyrim 3D Trees and Plants
-> Patched so that we only use the plants from that mod
+   > Patched so that we only use the plants from that mod
 - Fuckton of JohnSkyrim's shiny retextures including his recent daggers overhaul
 - Immersive Equipment Displays with Missile's Presets
 - Awesome Potions Simplified with a patch for LOTD
@@ -30,6 +30,8 @@ Personal additions that I enjoy:
 - Redid the UI slightly with mods like Dialogue Interface Reshaped and Sanguis Font
 - Nordic...ish UI for TrueHUD
 - Flat Maps!
+  >Plus Flat Map Markers
+
 <br>
 .. And a bunch of other things that are too long to list here
 
@@ -40,16 +42,16 @@ Personal additions that I enjoy:
 Things I removed from the main list:
 
 - Alduin's Reign Main Menu + new main menu music i forgot its called its cool tho
-> Replaced with Paramount Main Menu
+  > Replaced with Paramount Main Menu
 - Verydosebrom 
 - Volumetric Mists
-> Had skybox issues with some ENBS
+  > Had skybox issues with some ENBS
 - Improved Camera
 - Alternate Start
-> Replaced with Realm of Lorkhan
+  > Replaced with Realm of Lorkhan
 - Combat Gameplay Overhaul
 - Maximum Carnage 
-> Not a fan of gore :(
+  > Not a fan of gore
 - Frozen Electrocuted Commbustion
 - Slip off Slopes
 - Sink or Swim
@@ -58,16 +60,17 @@ Things I removed from the main list:
 - Genesis Unleashed
 - Mihail's monsters
 - Sofia and Vilja
-> Not a fan of them and Sofia keeps taking off her fuckign clothes!!
+  > Not a fan of them and Sofia keeps taking off her fuckign clothes!!
 - Gladys and Merlin
+  > I wanted plugin space :c
 - Eekie's Kaidan
-> Replaced with High Poly Kaidan
+  > Replaced with High Poly Kaidan
 - OProstitution, OVirginity, OAroused, and OBooty 
 - Fertility Mode
 - LOTD Lighting Mod 
-> Made LOTD too bright with the current ENB
+  > Made LOTD too bright with the current ENB
 - Fixed Mesh Lighting 
-> Was a headache to make sure everything was working
-> 
+  > Was a headache to make sure everything was working
+
 <br>
 ... Plus many other removals that are too long to list also

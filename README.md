@@ -28,8 +28,7 @@
 - [Contact](#contact)
 - [Changelog](#changelog)
 
-![Bingcentia logo](Bingcentia.png "Bingcentia")
-
+![Bingcentia](Media/Bingcentia.png)
 
 # Preamble
 

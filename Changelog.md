@@ -1,5 +1,6 @@
 # 1.0
-### First test build to squash bugs I didn't catch!
+## First test build!
+
 
 **Additions**
 - Realm of Lorkan
@@ -10,6 +11,8 @@
     >With Missile's Prests
 - Hide your Quests
 - Stackable Stones of Barenziah with Quest Markers
+- TUDM Attack Cancel
+- Key Bindable Dual Wield Blocking
 - More SmoothCam Presets
     > Specifically Octavian's Preset and EasyEase
 - Redid the UI slightly with mods like Dialogue Interface Reshaped and Sanguis Font
@@ -29,11 +32,14 @@
 -  Bunch of ENB Particle Lights mods
 -  Aspens Ablaze
 -  Folkvangr Landscapes and Grass
+-  Mari's Flora
  -  Skyrim 3D Trees and Plants
     > Patched so that we only use the plants from that mod
- - More Wooden Bridges
+- Picta Series - Improved Sky Meshes
+- More Wooden Bridges
 - Elizabeth's Tower - Azura Shrine
 - Rustic Furniture and some other furniture retexes
+- Hrokkva - Tiny Mage Home in Riften
 - Some more Bodyslide Presets
 
 
@@ -79,4 +85,4 @@ Things I removed from the main list:
   > Was a headache to make sure everything was working
 
 <br>
-... Plus many other removals that are too long to list also
+... Plus many other removals that I don't remember

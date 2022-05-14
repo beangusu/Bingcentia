@@ -166,7 +166,7 @@ If for some reason something goes wrong, you can cancel the installation and dow
 
 Some mods will straight up refuse to download due to the mirror being down like Skyrim Realistic Overhaul. Download them here if needed:
 
-- https://www.moddb.com/mods/skyrim-realistic-overhaul/downloads (We only need Parts 1-3 and the 1.8 Update)
+- https://www.moddb.com/mods/skyrim-realistic-overhaul/downloads (Be sure to grab Parts 1-3 and the SE 1.8 Update, **not** the Original Skyrim Version 1.8 Update)
   
 
 Some of the `Output files` will fail to download due to their size and your internet speed. Download them manually from here:

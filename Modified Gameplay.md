@@ -1,6 +1,9 @@
-# Some gameplay has been modified quite a bit from _Licentia_ while some gameplay has stayed exactly the same. 
-**Please read this in its entirety in case you're not familiar with Licentia's mechanics and to read some new ones**
+# This game has been modified
 
+![Bingcentia](Media/Bingcentia.png)
+
+## Lots of changes were made, but lots of them are also the same as _Licentia_, so I recommend giving this doc a look through
+***
 ## Riften Player Home
 I honestly just really like Riften, so I added a [tiny mage home](https://www.nexusmods.com/skyrimspecialedition/mods/12929) on top of the home collection we have in the list already. The home is tucked away on the bottom level of Black-Briar Meadery's exterior in Riften's docks and features an enchanting table, safe storage for your stuff, a cooking station, and fun static clutter. The house is navmeshed too so feel free to bring your followers. 
 

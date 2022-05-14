@@ -77,20 +77,20 @@ For this list to run smoothly, you need a very large pagefile set on the drive y
 
 To make these changes:
 
-1. Hold down your **LEFT WINDOWS KEY** and press **R.*
+1. Hold down your **LEFT WINDOWS KEY** and press *R.*
 2. Type in `systempropertiesadvanced` and press **ENTER.**
-3. Under _Performance_ (near the top) click "Settings..."
-4. Click the _Advanced_ tab (along the top)
-5. Under _Virtual Memory_ click "Change..."
-6. Uncheck _Automatically manage_ if it is checked.
+3. Under `Performance` (near the top) click `Settings...`
+4. Click the ``Advanced` tab (along the top)
+5. Under `Virtual Memory` click `Change...`
+6. Uncheck `Automatically manage` if it is checked.
 7. Select your FASTEST solid state drive.
-8. Click the _Custom size:_ radio button to put a circle in it.
-9. Next to _Initial Size_ type 40960.
-10. Next to _Maximum Size_ type 40960 as well.
-11. Press the _Set_ button (kinda down and to the right)
-12. Press _OK_
-13. Press _Apply_ if it is available
-14. Press _OK_
+8. Click the `Custom size:` ratio button to put a circle in it.
+9. Next to `Initial Size` type 40960.
+10. Next to `Maximum Size` type 40960 as well.
+11. Press the `Set` button (kinda down and to the right)
+12. Press `OK`
+13. Press `Apply` if it is available
+14. Press `OK`
 15. Restart your computer.
 
 # Installation

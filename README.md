@@ -6,11 +6,10 @@
   - [THIS LIST ALSO REQUIRES THE MOST RECENT VERSION OF SKYRIM ALONG WITH THE $20 AE DLC!](#this-list-also-requires-the-most-recent-version-of-skyrim-along-with-the-20-ae-dlc)
 - [Preamble](#preamble)
   - [List Contents](#list-contents)
-  - [STRONG WARNINGS](#strong-warnings)
-- [DO NOT ALTER THE MODLIST AND REQUEST SUPPORT FROM CACO OR IN THE LICENTIA CHANNELS!](#do-not-alter-the-modlist-and-request-support-from-caco-or-in-the-licentia-channels)
-  - [Requirements](#requirements)
-    - [System Specs](#system-specs)
-    - [Pagefile](#pagefile)
+- [STRONG WARNINGS](#strong-warnings)
+- [Requirements](#requirements)
+  - [System Specs](#system-specs)
+  - [Pagefile](#pagefile)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
@@ -22,11 +21,12 @@
 - [Post-Installation](#post-installation)
   - [Launching the Game](#launching-the-game)
 - [Once you are in-game, create your character and follow the MCM instructions below](#once-you-are-in-game-create-your-character-and-follow-the-mcm-instructions-below)
+  - [Bingcentia MCM Configuration And More](#bingcentia-mcm-configuration-and-more)
   - [Updating the Modlist](#updating-the-modlist)
   - [Removing the Modlist](#removing-the-modlist)
-  - [Contact](#contact)
-  - [Contributing](#contributing)
-  - [Changelog](#changelog)
+- [Contact](#contact)
+- [Contributing](#contributing)
+- [Changelog](#changelog)
 
 ![Bingcentia logo](Bingcentia.png "Bingcentia")
 
@@ -41,26 +41,25 @@ Welcome to the latest incarnation of _Bingcentia_, where take _Licentia_ and cra
 - [List of all mods in Bingcentia on Load Order Library](https://loadorderlibrary.com/lists/licentia)
   
 
-## STRONG WARNINGS
+# STRONG WARNINGS
 
 Before asking a question, look at [Troubleshooting](https://github.com/beangusu/Bingcentia/blob/main/TROUBLESHOOTING.md)! Most questions can be answered there.
 
-<br>
 
-# DO NOT ALTER THE MODLIST AND REQUEST SUPPORT FROM CACO OR IN THE LICENTIA CHANNELS!
+**DO NOT ALTER THE MODLIST AND REQUEST SUPPORT FROM CACO OR IN THE LICENTIA CHANNELS!**
 
 **This list is completely seperate from Licentia despite some basic features being the same.** 
 
 If you wish to add or modify the _slightest little thing_, even a seemingly innocuous change such as a RaceMenu or BodySlide preset, an ENB preset or an INI setting, **you must ask for support in the unoffical support channels.** The **only** exceptions are those changes for your particular setup that have already been mentioned elsewhere in this readme, such as mods for Gamepads or UltraWide. Changing resolution is also fine.
 
 
-## Requirements
+# Requirements
 
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
 - [LoversLab Account](https://www.loverslab.com/)
 - [VectorPlexus Account](https://vectorplexus.com/)
 
-### System Specs
+## System Specs
 
 My best estimate as to what you need to play _Bingcentia_ enjoyably is as follows:
 
@@ -72,7 +71,7 @@ Please bear in mind that this is an extremely demanding list, more so than Licen
 
 Everything should be installed on an SSD, since the game can be borderline unplayable on an HDD, that has at least 265GB of space available, although you can relocate your downloads folder to another drive if you need space. 
 
-### Pagefile
+## Pagefile
 
 For this list to run smoothly, you need a very large pagefile set on the drive you have the list installed on and a system managed pagefile on another drive. I myself have it at 50GB.
 
@@ -191,7 +190,7 @@ The next step is to actually launch the game. Navigate to the directory where yo
 # Once you are in-game, create your character and follow the MCM instructions below
 Then come back here to read the rest of the ReadMe
 
-[Bingcentia MCM Configuration And More](https://github.com/beangusu/Bingcentia/blob/main/MCMs.md)
+ ## [Bingcentia MCM Configuration And More](https://github.com/beangusu/Bingcentia/blob/main/MCMs.md)
 
 ## Updating the Modlist
 
@@ -203,16 +202,16 @@ It is rarely recommended continuing a save when you update a modlist because Sky
 
 You can just remove the _Bingcentia_ folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB and Reshade.
 
-## Contact
+# Contact
 
 I am regularly available on the [Jolly Co-Op Discord](https://discord.gg/wabbajack). I will not respond to direct messages unless I know you. **PLS DO NOT DIRECT MESSAGE ME**
 
 If you enjoyed playing this modlist and feel that your time spent with it was worth any amount of money, consider donating to Caco in any amount of one dollar or more via his [Patreon](https://www.patreon.com/cacophony1979)!
 
-## Contributing
+# Contributing
 
 See [Contributing](CONTRIBUTING.md).
 
-## Changelog
+# Changelog
 
 See [Changelog](CHANGELOG.md).

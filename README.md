@@ -25,7 +25,6 @@
 - [Updating the Modlist](#updating-the-modlist)
 - [Removing the Modlist](#removing-the-modlist)
 - [Contact](#contact)
-- [Contributing](#contributing)
 - [Changelog](#changelog)
 
 ![Bingcentia logo](Bingcentia.png "Bingcentia")
@@ -97,7 +96,7 @@ To make these changes:
 
 ##  Pre-Installation
 
-These steps are only needed if this is your first time installing a modlist. If you update the modlist, jump straight to [Updating](updating-the-modlist)
+These steps are only needed if this is your first time installing a modlist. If you update the modlist, jump straight to [Updating](#updating-the-modlist)
 
 ###  Installing Microsoft Visual C++ Redistributable Package
 
@@ -192,6 +191,8 @@ Then come back here to read the rest of the ReadMe
 
  ## [Bingcentia MCM Configuration And More](https://github.com/beangusu/Bingcentia/blob/main/MCMs.md)
 
+<br>
+
 # Updating the Modlist
 
 When an update is pushed, simply re-download the modlist from the Gallery and specify the same directories you did the first time. Then check the "Overwrite" box. This will **delete** any customizations you have made to the modlist. Refer to the unoffical support channel on how to keep them.
@@ -200,17 +201,14 @@ It is rarely recommended continuing a save when you update a modlist because Sky
 
 # Removing the Modlist
 
-You can just remove the _Bingcentia_ folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB and Reshade.
+You can just remove the _Bingcentia_ folder and be done with it.
 
 # Contact
 
 I am regularly available on the [Jolly Co-Op Discord](https://discord.gg/wabbajack). I will not respond to direct messages unless I know you. **PLS DO NOT DIRECT MESSAGE ME**
 
-If you enjoyed playing this modlist and feel that your time spent with it was worth any amount of money, consider donating to Caco in any amount of one dollar or more via his [Patreon](https://www.patreon.com/cacophony1979)!
+If you enjoyed playing this modlist and feel that your time spent with it was worth any amount of money, consider donating to Caco in via his [Patreon](https://www.patreon.com/cacophony1979)! I wouldn't have been able to make this modlist without him :D
 
-# Contributing
-
-See [Contributing](CONTRIBUTING.md).
 
 # Changelog
 

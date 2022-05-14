@@ -6,6 +6,7 @@
   - [THIS LIST ALSO REQUIRES THE MOST RECENT VERSION OF SKYRIM ALONG WITH THE $20 AE DLC!](#this-list-also-requires-the-most-recent-version-of-skyrim-along-with-the-20-ae-dlc)
 - [Preamble](#preamble)
   - [List Contents](#list-contents)
+  - [Project Tracking](#project-tracking)
   - [Modified Gameplay](#modified-gameplay)
 - [STRONG WARNINGS](#strong-warnings)
 - [Requirements](#requirements)
@@ -34,26 +35,27 @@
 
 **This modlist contains mods with sexual content, you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**
 
-Welcome to the latest incarnation of _Bingcentia_, where I take _Licentia_ and crank the visuals up to an 11, remove certain mods, and add personal shit I like along with additions from the community of _Licentia_. This modlist is intended as a high fantasy "Game of Thrones" Skyrim, an ultimate power fantasy where you can use an incredible amount of perks and spells to make the hero you want, with just a touch of racy sexuality. Think of the sex as a minigame or a side thing you do while you adventure!
+Welcome to the latest incarnation of _Bingcentia_, where I take _Licentia_, crank the visuals up to an 11, remove certain mods, and add personal shit I like along with additions from the community of _Licentia_. This modlist is intended as a high fantasy "Game of Thrones" Skyrim, an ultimate power fantasy where you can use an incredible amount of perks and spells to make the hero you want, with just a touch of racy sexuality. Think of the sex as a minigame or a side thing you do while you adventure!
 
 ## List Contents
 - [List of all mods in Bingcentia on Load Order Library](https://loadorderlibrary.com/lists/licentia)
+## Project Tracking
 - I also have a [Trello](https://trello.com/b/OxQbKvxy/bingcentia) if you want to check out what I have planned or the progress of an update!
 
 ## Modified Gameplay
-Gameplay has been modified a bit, but doesn't stray that far away from _Licentia_, I recommend taking a look at this anyway to see what's new!
+Gameplay has been modified a bit, but doesn't stray that far away from _Licentia_, I recommend taking a look at this anyway to see what's new:
+
   [Gameplay Changes](Modified%20Gameplay.md)
 
 # STRONG WARNINGS
-
-Before asking a question, look at [Troubleshooting](https://github.com/beangusu/Bingcentia/blob/main/TROUBLESHOOTING.md)! Most questions can be answered there.
-
 
 **DO NOT ALTER THE MODLIST AND REQUEST SUPPORT FROM CACO OR IN THE LICENTIA CHANNELS!**
 
 **This list is completely seperate from Licentia despite some basic features being the same.** 
 
 If you wish to add or modify the _slightest little thing_, even a seemingly innocuous change such as a RaceMenu or BodySlide preset, an ENB preset or an INI setting, **you must ask for support in the unoffical support channels.** The **only** exceptions are those changes for your particular setup that have already been mentioned elsewhere in this readme, such as mods for Gamepads or UltraWide. Changing resolution is also fine.
+
+Also, before asking a question, look at [Troubleshooting](https://github.com/beangusu/Bingcentia/blob/main/TROUBLESHOOTING.md)! Most questions can be answered there.
 
 
 # Requirements
@@ -104,7 +106,7 @@ These steps are only needed if this is your first time installing a modlist. If 
 
 ###  Installing Microsoft Visual C++ Redistributable Package
 
-I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from Microsoft. Download the x64 version under "Visual Studio 2015, 2017, 2019. and 2020". <a href="https://aka.ms/vs/17/release/vc_redist.x64.exe">Direct link</a> if you can't find it.
+This package is required for MO2 and you can download it from Microsoft. Download the x64 version under "Visual Studio 2015, 2017, 2019. and 2020". <a href="https://aka.ms/vs/17/release/vc_redist.x64.exe">Direct link</a> if you can't find it.
 
 ### Installing .NET 5.0
 
@@ -173,7 +175,7 @@ Some mods will straight up refuse to download due to the mirror being down like 
 - https://www.moddb.com/mods/skyrim-realistic-overhaul/downloads (Be sure to grab Parts 1-3 and the SE 1.8 Update, **not** the Original Skyrim Version 1.8 Update)
   
 
-Some of the `Output files` will fail to download due to their size and your internet speed. Download them manually from here:
+Some of the `Output files` will fail to download due to their size and your internet speed. Keep in mind that you might hit the cap for Mega downloads while installing these too. If that happens, grab a vpn and download them manually from here:
 
 [Bingcentia Custom Files](https://mega.nz/folder/LoRAwS6S#IgfSALnZxW0-68xad94epQ)
 
@@ -188,10 +190,10 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 ## Launching the Game
 
-The next step is to actually launch the game. Navigate to the directory where you installed _Bingcentia_. Inside you will notice an exe file named _ModOrganizer.exe_. Double click this file to start up MO2. Next, launch the modlist by clicking the `PLAY` button next to `Play Bingcentia`.
+The next step is to actually launch the game. Navigate to the directory where you installed _Bingcentia_. Inside you will notice an exe file named _ModOrganizer.exe_. Double click this file to start up MO2. Next, launch the modlist by clicking the `RUN` button next to `Play Bingcentia`.
 
 # Once you are in-game, create your character and follow the MCM instructions below
-Then come back here to read the rest of the Readme!
+Then come back here to read the rest of the README!
 
  ## [Bingcentia Configurations And More](https://github.com/beangusu/Bingcentia/blob/main/MCMs.md)
 
@@ -209,9 +211,9 @@ You can just remove the _Bingcentia_ folder and be done with it.
 
 # Contact
 
-I am regularly available on the [Jolly Co-Op Discord](https://discord.gg/wabbajack). I will not respond to direct messages unless I know you. **PLS DO NOT DIRECT MESSAGE ME**
+I am regularly available on the [Jolly Co-Op Discord](https://discord.gg/wabbajack). I will not respond to direct messages unless I know you, so pls don't DM me.
 
-If you enjoyed playing this modlist and feel that your time spent with it was worth any amount of money, consider donating to Caco in via his [Patreon](https://www.patreon.com/cacophony1979)! I wouldn't have been able to make this modlist without him :D
+If you enjoyed playing this modlist and feel that your time spent with it was worth any amount of money, consider donating to Caco via his [Patreon](https://www.patreon.com/cacophony1979)! I wouldn't have been able to make this modlist without him c:
 
 
 # Changelog

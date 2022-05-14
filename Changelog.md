@@ -1,10 +1,7 @@
-# 1.0!
+# 1.0
 ### First Release!
 
 **Additions**
-
-Personal additions that I enjoy:
-
 - Realm of Lorkhan
   > with iAmMe's mod to add a vanity mirror
 - Bunch of Particle Lights

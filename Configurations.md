@@ -15,7 +15,7 @@ If you want to change this to how you like it:
 3. Close out of the window, and you're done
 
 ## ENB
-This list comes shipped with Pi-CHO Koanan's Edition ENB with very minor tweaks to the LUT. If you no likey, you could pick from the ENBs I placed in the ` Bingcentia\ENBs` folder or use ones from the Nexus :)
+This list comes shipped with FNENB with the NLA Weathers plugin and some very minor tweaks to the shadows. If you no likey, you could try the reshades I placed in the Reshades folder to spruce it up or ask in the support channel on how to remove it so you can add your favorite weather mod :)
 
 
 ## Customizing Controls

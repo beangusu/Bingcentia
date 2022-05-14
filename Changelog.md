@@ -13,6 +13,8 @@
 - Stackable Stones of Barenziah with Quest Markers
 - TUDM Attack Cancel
 - Key Bindable Dual Wield Blocking
+- zxlice Backstab and Parry
+- Flinching SSE
 - More SmoothCam Presets
     > Specifically Octavian's Preset and EasyEase
 - Redid the UI slightly with mods like Dialogue Interface Reshaped and Sanguis Font
@@ -56,7 +58,7 @@ Things I removed from the main list:
   > Replaced with Paramount Main Menu
 - Verydosebrom Reigons
 - Volumetric Mists
-  > Had skybox issues with some ENBS
+  > Had skybox issues with some ENBs I tried
 - Improved Camera
 - Alternate Start
   > Replaced with Realm of Lorkhan
@@ -80,9 +82,9 @@ Things I removed from the main list:
   >No sluts allowed
 - Fertility Mode
 - LOTD Lighting Mod 
-  > Made LOTD too bright with the current ENB
+  > Made LOTD too bright imo
 - Fixed Mesh Lighting 
-  > Was a headache to make sure everything was working
+  > Was a headache to make sure everything was working, adding it back in later tho
 
 <br>
 ... Plus many other removals that I don't remember

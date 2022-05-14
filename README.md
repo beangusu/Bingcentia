@@ -22,8 +22,8 @@
   - [Launching the Game](#launching-the-game)
 - [Once you are in-game, create your character and follow the MCM instructions below](#once-you-are-in-game-create-your-character-and-follow-the-mcm-instructions-below)
   - [Bingcentia MCM Configuration And More](#bingcentia-mcm-configuration-and-more)
-  - [Updating the Modlist](#updating-the-modlist)
-  - [Removing the Modlist](#removing-the-modlist)
+- [Updating the Modlist](#updating-the-modlist)
+- [Removing the Modlist](#removing-the-modlist)
 - [Contact](#contact)
 - [Contributing](#contributing)
 - [Changelog](#changelog)
@@ -192,13 +192,13 @@ Then come back here to read the rest of the ReadMe
 
  ## [Bingcentia MCM Configuration And More](https://github.com/beangusu/Bingcentia/blob/main/MCMs.md)
 
-## Updating the Modlist
+# Updating the Modlist
 
 When an update is pushed, simply re-download the modlist from the Gallery and specify the same directories you did the first time. Then check the "Overwrite" box. This will **delete** any customizations you have made to the modlist. Refer to the unoffical support channel on how to keep them.
 
 It is rarely recommended continuing a save when you update a modlist because Skyrim _does not_ like it when you do that. Only update on a current save if you wish to start the game over, or if there is some horrible bug with it.
 
-## Removing the Modlist
+# Removing the Modlist
 
 You can just remove the _Bingcentia_ folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB and Reshade.
 

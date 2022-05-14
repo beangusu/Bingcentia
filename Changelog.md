@@ -8,6 +8,8 @@
 - Simple Outfit System
 - Immersive Equipment Displays
     >With Missile's Prests
+- Hide your Quests
+- Stackable Stones of Barenziah with Quest Markers
 - More SmoothCam Presets
     > Specifically Octavian's Preset and EasyEase
 - Redid the UI slightly with mods like Dialogue Interface Reshaped and Sanguis Font
@@ -17,22 +19,26 @@
 - LOTD Armoury Addon to make it look more lively
 - Bunch of Jayserpa mods
     >Take A Peek, NPC's wear Amulets of Mara, Conditional Expressions + more
+- Auri Enhanced Voice
+- Serana Fixed Cross Arms Animation
 - Awesome Potions Simplified with a patch for LOTD
 - Awesome Sigil Stones
 - Fuckton of JohnSkyrim's shiny retextures including his recent daggers overhaul
 - Iconic's retextures
 - Moonpath to Elsweyr Retexture
 -  Bunch of ENB Particle Lights mods
+-  Aspens Ablaze
+-  Folkvangr Landscapes and Grass
  -  Skyrim 3D Trees and Plants
     > Patched so that we only use the plants from that mod
  - More Wooden Bridges
 - Elizabeth's Tower - Azura Shrine
 - Rustic Furniture and some other furniture retexes
-- Some Bodyslide Presets
+- Some more Bodyslide Presets
 
 
 <br>
-.. And a bunch of other things that are too long to list here
+... And a bunch of other things that are too long to list here
 
 ***
 
@@ -42,7 +48,7 @@ Things I removed from the main list:
 
 - Alduin's Reign Main Menu + new main menu music i forgot its called its cool tho
   > Replaced with Paramount Main Menu
-- Verydosebrom 
+- Verydosebrom Reigons
 - Volumetric Mists
   > Had skybox issues with some ENBS
 - Improved Camera
@@ -53,18 +59,19 @@ Things I removed from the main list:
   > Not a fan of gore
 - Frozen Electrocuted Commbustion
 - Slip off Slopes
-- Sink or Swim
 - Triple Triad
-- Tavern Games
-- Genesis Unleashed
 - Mihail's monsters
 - Sofia and Vilja
   > Not a fan of them and Sofia keeps taking off her fuckign clothes!!
 - Gladys and Merlin
   > I wanted plugin space :c
+- Tavern Games
+- Genesis Unleashed
 - Eekie's Kaidan
   > Replaced with High Poly Kaidan
+- Sink or Swim
 - OProstitution, OVirginity, OAroused, and OBooty 
+  >No sluts allowed
 - Fertility Mode
 - LOTD Lighting Mod 
   > Made LOTD too bright with the current ENB

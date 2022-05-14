@@ -1,49 +1,32 @@
-- [Licentia Configuration](#licentia-configuration)
-  - [Setting your resolution](#setting-your-resolution)
-  - [Customizing Controls](#customizing-controls)
-  - [Using A Controller](#using-a-controller)
-  - [Disabling NSFW Features](#disabling-nsfw-features)
-  - [Character Creation](#character-creation)
-  - [AS SOON AS CHARACTER CREATION IS COMPLETE](#as-soon-as-character-creation-is-complete)
-  - [Game MCM Options](#game-mcm-options)
-  - [Fertility Mode+](#fertility-mode)
-  - [Follower Framework](#follower-framework)
-  - [OStim](#ostim)
-    - [How To Use This Mod](#how-to-use-this-mod)
-  - [Quick Light](#quick-light)
-  - [Skyrim Outfit System](#skyrim-outfit-system)
-    - [Options](#options)
-  - [Now you are ready to spawn!](#now-you-are-ready-to-spawn)
-    - [The Dodge Mod Will Not Work Until You Leave The Starting Cell.](#the-dodge-mod-will-not-work-until-you-leave-the-starting-cell)
-    - [Do Not Report Bugs With The Dodge Mod If You Have Not Left The Starting Cell.](#do-not-report-bugs-with-the-dodge-mod-if-you-have-not-left-the-starting-cell)
-    - [VioLens](#violens)
-  - [FINAL NOTE: On Alternate Starts](#final-note-on-alternate-starts)
 
-# Licentia Configuration
+# Bingcentia Configuration
 
-## Setting your resolution
+## Ultrawide
+If you have an Ultrawide monitor, I've included a fix for Dialogue Interface Reshaped. Under the MO2 separator labeled `Possible Ultrawide Fixes` is the mod you can enable to get it working. 
 
-_Licentia_ has been configured to run at _2560x1440_ by default. If you wish to change this to a higher or lower resolution, click the "Tools" icon above the list of mods and choose _INI Editor_. Now search the _SkyrimPrefs.ini_ for a line that begins with _iSize_. 
+There may be steps you can take such as reinstalling _Dear Diary_, but these are **unsupported** because I can't help you get it working or test problems with it because I don't have Ultrawide. You can always refer to other Wabbajack READMEs or type use the search bar in discord to look for other people's experiences.
 
-"1080p" is _iSize H = 1080_ & _iSize W = 1920_
-"1440p" is _iSize H = 1440_ & _iSize W = 2560_
-"2160p" or "True 4K" is _iSize H = 2160_ & _iSize W = 3840_
+***
+## ENB
+This list comes shipped with Pi-CHO Koanan's Edition ENB with very minor tweaks to the LUT. If you no likey, you could pick from the ENBs I placed in the ` Bingcentia\ENBs` folder or use one from the Nexus :)
 
-If you have an Ultrawide monitor, there may be steps you can take such as reinstalling the _Dear Diary_ series of mods, but these are **unsupported** because I can't help you get it working or test problems with it because I don't have Ultrawide. You can always refer to other Wabbajack readmes or drop by Discord and type _!usesearch_ to hunt for other users' experiences.
-
+*** 
 ## Customizing Controls
 
-The vast majority of these options are configured in the "Controls" portion of Skyrim's pause menu. Please take note that your "Sneak" key is **NO LONGER SNEAK**, it is **DODGE** instead. If you wish to select a sneak key, first configure your **DODGE** key (which is labeled as **SNEAK** in the "Controls" menu, remember). Then open the MCM and choose the _Ultimate Dodge_ option. There is an entry there for "Sneak Key", click it and choose. In the end I think you will be better served with Dodge as _Shift_ and Sneak as _CTRL_.
+The vast majority of these options are configured in the `Controls` portion of Skyrim's pause menu. Please take note that your "Sneak" key is **NO LONGER SNEAK**, it is **DODGE** instead. If you wish to change your sneak key, first configure your **DODGE** key (which is labeled as **SNEAK** in the `Controls` menu, remember). Then open the MCM and choose `The Ultimate Dodge Mod`. There is an entry there for `Sneak Key`, click it and choose what you'd like.
 
-To change the _Quick Light_ key, open the _Quick Light_ MCM and you should see the option. The same is true for _CGO_, there are options for _Grip Shift_ and _Dual Wield Blocking_.
+To change the Quick Light key, open the `Quick Light` MCM and you should see the option.
 
-The last control you need to configure is within the _True Directional Movement_ mod. I recommend setting the "Lock-On" key to one of your alternate mouse buttons, such as the scroll wheel or one of the side buttons, if you have one.
+The last control you need to configure is within the `True Directional Movement` mod. I recommend setting the `Lock-On` key to one of your alternate mouse buttons, such as the scroll wheel or one of the side buttons, if you have one.
 
+***
 ## Using A Controller
 
-Due to incompatibilities with _OStim's_ FreeCam I have disabled all controller mods by default. They can be found under "Controller Options", but serve no purpose so long as you use a mouse and keyboard. However, if you wish to play with a controller, you will have to **enable all these mods** and **delete any ControlMap_Custom" file(s) in your Skyrim game directory.** _If there is no such file in your Skyrim directory, you do not need to worry about it._ Just make certain one is not present.
+Due to incompatibilities with _OStim's_ FreeCam I have disabled all controller mods by default. They can be found under "Controller Options", but serve no purpose so long as you use a mouse and keyboard. However, if you wish to play with a controller, you will have to **enable all these mods** and **delete any ControlMap_Custom" file(s) in your Skyrim game directory.** 
 
-You will have to configure CGO (I recommend D-Pad Left for grip shift and LB or L1 for Dual-Wield Blocking), The Ultimate Dodge Mod (I recommend D-Pad Down for Sneak), and Quick Light (I recommend D-Pad Up). There is no good button for lock-on, I typically assign the same one as Spring and Dual-Wield Blocking (LB).  Finally, reconfigure your QuickSave and QuickLoad keys in-game. You must ALSO recall that almost ALL OStim navigation can only be accomplished via the keyboard, so you will have to either switch back and forth or set to autopilot. When all is said and done the Gamepad controls will be as follows:
+_If there is no such file in your Skyrim directory, you do not need to worry about it._ Just make certain one is not present.
+
+You will have to configure The Ultimate Dodge Mod (I recommend D-Pad Down for Sneak), and Quick Light (I recommend D-Pad Up), and True Direction Movement (D-Pad Left for Lock-On). I typically assign the same one as Spring and Dual-Wield Blocking (LB).  Finally, reconfigure your QuickSave and QuickLoad keys in-game. You must ALSO recall that almost ALL OStim navigation can only be accomplished via the keyboard, so you will have to either switch back and forth or set to autopilot. When all is said and done the Gamepad controls will be as follows:
 
 - Start: Journal
 - Back: Wait
@@ -51,9 +34,9 @@ You will have to configure CGO (I recommend D-Pad Left for grip shift and LB or 
 - RT: Right attack
 - LB+Back: Quicksave
 - RB+Start: Tween menu (character menu)
-- LB+RB: Shout (in that order, you kinda haveta roll your fingers across them)
-- LB: Lock-on (toggle)
-- RB: Sprint, Dual-Wield Block
+- LB+RB: Shout (in that order, you kinda have to roll your fingers across them)
+- LB: Dual Wield Blocking
+- RB: Sprint,
 - LS: Favorites
 - RS: Switch POV
 - A: Activate
@@ -62,9 +45,8 @@ You will have to configure CGO (I recommend D-Pad Left for grip shift and LB or 
 - Y: Jump
 - D-Pad Up: Turn on / off Quick Light
 - D-Pad Down: Sneak / Stop Sneaking
-- D-Pad Left: Switch grip between 1-handed and 2-handed (CGO)
-- (Yes, you will crouch up and down and turn lights on and off in dialog menus.)
-- (Use the sticks instead!)
+- D-Pad Left: Lock On (toggle)
+  >Yes, you will crouch up and down and turn lights on and off in dialog menus. Use the sticks instead!
 
 ## Disabling NSFW Features
 
@@ -98,20 +80,35 @@ Fertility mode will pop up a window requesting to turn on. Choose NO right now, 
 
 **NEW!** Almost every MCM is now automated! The only two mods you may be interested in configuring are _Fertility Mode_ and _Ostim_ itself. Read on for details!
 
-## Fertility Mode+
+***
+## Immersive Equipment Displays
 
-"Enable" the mod. This is a _slow_ process. It will lock up the MCM menu, most likely, so you will have to exit all menus and re-enter.
+This mod allows your character + NPCs to have weapons, coin bags, potions, etc. displayed. Basically ALLGUD but better. By default, the list comes with Missile's IED Preset and needs a few steps to set up.
 
-Check _No Non-Unique Women_ and _No Non-Unique Men_.
+1. Press the Backspace button to open the Immersive Equipment Displays GUI
+2. Make sure Sync is unchecked before you touch anything!
+3. Click on view ⇾ gear positioning ⇾ "Missile - Gear Positioning" in the preset drop down menu
+4. Click merge and OK
+ 
+**IF YOU DON'T WANT YOUR SWORD ON YOUR BACK OR WITCHER STYLE LEFT SWORDS:**
+ 
+ In the gear positioning window, select the "Placement" bubble. You can edit the placements of the weapons there
 
-You may also be interested in the "Automation" options in the lower right.
+**Weapons don't show without Cuirass or Clothes**
 
-The _Spouse Fidelity_ option is hilarious if you set it down to around 50%. This basically means you have more baby mama drama than an Oklahoma trailer park.
+1. Open the GUI ⇾ view ⇾ Equipment ⇾ Select "Missile Weapons - No Body" ⇾ Click merge and accept
+   
+I would also recommend doing this for NPCs as well:
 
-_Randomly Inseminate_ allows you to simulate widespread fucking without acting it out. Be wary of this mode!
+2. In Equipment ⇾ Select the "Global" tab ⇾ Click on the NPC bubble ⇾ Select "Missile Weapons - No Body" and merge
 
-Finally, the default feedback is a bit intrusive. I recommend switching to _Page 2_ of the settings and disabling _Verbose Messages_ and _The Widget._ Otherwise, you will receive messages about insemination and, if you are female, have a really anatomical depiction of your reproductive organs onscreen at all times. I don't want to talk about it.
+**Misc Items, Quest Items, and Headhunter Presets:**
 
+- Open the GUI ⇾ view ⇾ Custom ⇾ Make sure you are on the "NPC" tab, and it is on your character at the top ⇾ Select either "Missile - Quest Items", "Missile - Misc Items", or "Missile - Headhunter" ⇾ Click merge and accept
+
+NPC Items:
+1. In the custom view, select the tab "Global" ⇾ Select "Missile - NPCs" ⇾ Click on merge and accept
+   
 ## Follower Framework
 
 Not strictly necessary, but your followers may wander around at times without this step. Go to **Activity** and enable _Only Sandbox in Town._ If you don't want your followers using your crafting stations, also enable _Ignore Special Furniture_

@@ -6,6 +6,7 @@
   - [THIS LIST ALSO REQUIRES THE MOST RECENT VERSION OF SKYRIM ALONG WITH THE $20 AE DLC!](#this-list-also-requires-the-most-recent-version-of-skyrim-along-with-the-20-ae-dlc)
 - [Preamble](#preamble)
   - [List Contents](#list-contents)
+  - [Modified Gameplay](#modified-gameplay)
 - [STRONG WARNINGS](#strong-warnings)
 - [Requirements](#requirements)
   - [System Specs](#system-specs)
@@ -21,7 +22,7 @@
 - [Post-Installation](#post-installation)
   - [Launching the Game](#launching-the-game)
 - [Once you are in-game, create your character and follow the MCM instructions below](#once-you-are-in-game-create-your-character-and-follow-the-mcm-instructions-below)
-  - [Bingcentia MCM Configuration And More](#bingcentia-mcm-configuration-and-more)
+  - [Bingcentia Configurations And More](#bingcentia-configurations-and-more)
 - [Updating the Modlist](#updating-the-modlist)
 - [Removing the Modlist](#removing-the-modlist)
 - [Contact](#contact)
@@ -39,7 +40,10 @@ Welcome to the latest incarnation of _Bingcentia_, where I take _Licentia_ and c
 ## List Contents
 - [List of all mods in Bingcentia on Load Order Library](https://loadorderlibrary.com/lists/licentia)
 - I also have a [Trello](https://trello.com/b/OxQbKvxy/bingcentia) if you want to check out what I have planned or the progress of an update!
-  
+
+## Modified Gameplay
+Gameplay has been modified a bit, but doesn't stray that far away from _Licentia_, I recommend taking a look at this anyway to see what's new!
+  [Gameplay Changes](Modified%20Gameplay.md)
 
 # STRONG WARNINGS
 
@@ -188,9 +192,9 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 The next step is to actually launch the game. Navigate to the directory where you installed _Bingcentia_. Inside you will notice an exe file named _ModOrganizer.exe_. Double click this file to start up MO2. Next, launch the modlist by clicking the `PLAY` button next to `Play Bingcentia`.
 
 # Once you are in-game, create your character and follow the MCM instructions below
-Then come back here to read the rest of the ReadMe
+Then come back here to read the rest of the Readme!
 
- ## [Bingcentia MCM Configuration And More](https://github.com/beangusu/Bingcentia/blob/main/MCMs.md)
+ ## [Bingcentia Configurations And More](https://github.com/beangusu/Bingcentia/blob/main/MCMs.md)
 
 <br>
 

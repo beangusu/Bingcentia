@@ -1,0 +1,2 @@
+{"rule":"ANY_BODY","sentence":"^\\QOpen the GUI > view >  Equipment > Select \"Missile Weapons - No Body\" > Click merge and accept\\E$"}
+{"rule":"ANY_BODY","sentence":"^\\QIn Equipment > Select the \"Global\" tab > Click on the NPC bubble -> Select \"Missile Weapons - No Body\" and merge\\E$"}

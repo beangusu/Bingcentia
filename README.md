@@ -34,7 +34,7 @@
 
 **This modlist contains mods with sexual content, you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**
 
-Welcome to the latest incarnation of _Bingcentia_, where take _Licentia_ and crank the visuals up to an 11, remove certain mods, and add personal shit I like along with additions from the community of _Licentia_. This modlist is intended as a high fantasy "Game of Thrones" Skyrim, an ultimate power fantasy where you can use an incredible amount of perks and spells to make the hero you want, with just a touch of racy sexuality. Think of the sex as a minigame or a side thing you do while you adventure!
+Welcome to the latest incarnation of _Bingcentia_, where I take _Licentia_ and crank the visuals up to an 11, remove certain mods, and add personal shit I like along with additions from the community of _Licentia_. This modlist is intended as a high fantasy "Game of Thrones" Skyrim, an ultimate power fantasy where you can use an incredible amount of perks and spells to make the hero you want, with just a touch of racy sexuality. Think of the sex as a minigame or a side thing you do while you adventure!
 
 ## List Contents
 - [List of all mods in Bingcentia on Load Order Library](https://loadorderlibrary.com/lists/licentia)
@@ -212,4 +212,4 @@ If you enjoyed playing this modlist and feel that your time spent with it was wo
 
 # Changelog
 
-See [Changelog](CHANGELOG.md).
+See [Changelog](Changelog.md).

@@ -13,6 +13,7 @@
 - [Technical Issues](#technical-issues)
   - [I crashed!](#i-crashed)
   - [I'm randomly crashing!](#im-randomly-crashing)
+  - [I gave something to a follower and it crashed!](#i-gave-something-to-a-follower-and-it-crashed)
   - [My performance is really terrible, low FPS, input lag during combat!](#my-performance-is-really-terrible-low-fps-input-lag-during-combat)
   - [I have a bug that's not in this list.](#i-have-a-bug-thats-not-in-this-list)
   - [I crash in Project AHO when I complete a certain quest!](#i-crash-in-project-aho-when-i-complete-a-certain-quest)
@@ -78,6 +79,11 @@ Woah, hold your horses' pardner. Skyrim crashes all the time, less so in vanilla
 
 You probably don't have enough paged RAM. Skyrim is very badly optimized. Try increasing your pagefile size. Refer to the primary README document for details. 
 
+## I gave something to a follower and it crashed!
+
+Was it less than a full stack of arrows but more than half of that stack of arrows? Yeah, this is a bug and can't be fixed. Don't do that!
+
+If it was something else, first launch the game and try it again. If it happens again report it and tell me which item it was!
 
 ## My performance is really terrible, low FPS, input lag during combat!
 

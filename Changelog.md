@@ -1,34 +1,35 @@
 # 1.0
-### First Release!
+### First Test Build!
 
 **Additions**
-- Realm of Lorkhan
-  > with iAmMe's mod to add a vanity mirror :D
-- Bunch of Particle Lights
-- Stalhrim Source
-- Iconic's Moon Crest Texture
-- Moonpath to Elsweyr Retexture
-- Detailed Runes
-- Detailed Cities
-- More Wooden Bridges
-- Elizabeth's Tower - Azura Shrine
-- Awesome Sigil Stones
-- Rustic Furniture and some other furniture retexes
--  Skyrim 3D Trees and Plants
-   > Patched so that we only use the plants from that mod
-- Fuckton of JohnSkyrim's shiny retextures including his recent daggers overhaul
-- Immersive Equipment Displays with Missile's Presets
-- Awesome Potions Simplified with a patch for LOTD
-- Bunch of Jayserpa mods like Take A Peek, NPC's wear Amulets of Mara, Conditional Expressions + more
-- LOTD Armoury Addon to make it look more lively
+- Realm of Lorkan
+    >With iAmMe's vanity mirror addon :D
 - Critterspawn Congestion Fix
-- Some Bodyslide Presets
-- Octavian's SmoothCam Preset + EasyEase Smoothcam Preset
 - Simple Outfit System
+- Immersive Equipment Displays
+    >With Missile's Prests
+- More SmoothCam Presets
+    > Specifically Octavian's Preset and EasyEase
 - Redid the UI slightly with mods like Dialogue Interface Reshaped and Sanguis Font
-- Nordic...ish UI for TrueHUD
-- Flat Maps!
-  >Plus Flat Map Markers
+- Nordic..ish UI for TrueHUD
+- Paper Maps!
+- Dynamic Time and Weather Based Detection
+- LOTD Armoury Addon to make it look more lively
+- Bunch of Jayserpa mods
+    >Take A Peek, NPC's wear Amulets of Mara, Conditional Expressions + more
+- Awesome Potions Simplified with a patch for LOTD
+- Awesome Sigil Stones
+- Fuckton of JohnSkyrim's shiny retextures including his recent daggers overhaul
+- Iconic's retextures
+- Moonpath to Elsweyr Retexture
+-  Bunch of ENB Particle Lights mods
+ -  Skyrim 3D Trees and Plants
+    > Patched so that we only use the plants from that mod
+ - More Wooden Bridges
+- Elizabeth's Tower - Azura Shrine
+- Rustic Furniture and some other furniture retexes
+- Some Bodyslide Presets
+
 
 <br>
 .. And a bunch of other things that are too long to list here

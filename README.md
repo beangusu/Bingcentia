@@ -38,6 +38,7 @@ Welcome to the latest incarnation of _Bingcentia_, where I take _Licentia_ and c
 
 ## List Contents
 - [List of all mods in Bingcentia on Load Order Library](https://loadorderlibrary.com/lists/licentia)
+- I also have a [Trello](https://trello.com/b/OxQbKvxy/bingcentia) if you want to check out what I have planned or the progress of an update!
   
 
 # STRONG WARNINGS

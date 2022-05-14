@@ -3,11 +3,11 @@
 
 **Additions**
 - Realm of Lorkhan
-  > with iAmMe's mod to add a vanity mirror
+  > with iAmMe's mod to add a vanity mirror :D
 - Bunch of Particle Lights
 - Stalhrim Source
 - Iconic's Moon Crest Texture
-- Moonpath to Elsweyr Restexture
+- Moonpath to Elsweyr Retexture
 - Detailed Runes
 - Detailed Cities
 - More Wooden Bridges

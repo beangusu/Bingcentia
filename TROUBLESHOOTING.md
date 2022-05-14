@@ -5,7 +5,7 @@
   - [My weapons are swinging too fast or too slow!](#my-weapons-are-swinging-too-fast-or-too-slow)
   - [I love the paraglider mod, but I keep dying when I land!](#i-love-the-paraglider-mod-but-i-keep-dying-when-i-land)
   - [The tuning gloves in Winterhold seem to be acting up.](#the-tuning-gloves-in-winterhold-seem-to-be-acting-up)
-  - [The Civil War questline is horribly messed up. I can't complete the Battle(s) of Whiterun / Solitude / Windhelm. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric(a)/Tullius!](#the-civil-war-questline-is-horribly-messed-up-i-cant-complete-the-battles-of-whiterun--solitude--windhelm-people-are-inverting-backwards-off-the-ground-enemies-dont-stop-spawning-theres-no-ulfricatullius)
+  - [The Civil War questline is horribly messed up. I can't complete the Battles. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric(a)/Tullius!](#the-civil-war-questline-is-horribly-messed-up-i-cant-complete-the-battles-people-are-inverting-backwards-off-the-ground-enemies-dont-stop-spawning-theres-no-ulfricatullius)
   - [I can't complete the bandit raid quest for Whiterun (or another city)](#i-cant-complete-the-bandit-raid-quest-for-whiterun-or-another-city)
   - [I'm trying to kill the Necromancers for Undeath and the quest won't complete.](#im-trying-to-kill-the-necromancers-for-undeath-and-the-quest-wont-complete)
   - [I can't find the attack site that Lan describes in Riverwood.](#i-cant-find-the-attack-site-that-lan-describes-in-riverwood)
@@ -23,7 +23,7 @@
 
 From user _BigMac_
 
-> If you hold F8 for 10 seconds it activates OSAs emergency rebind. Where Lshift pulls up the menu and WASD is how you nav. You can then rebind the keys manually. I use P L ; ' as WASD to navigate, O and [ as yes/no and ] as toggle.
+> If you hold F8 for 10 seconds it activates OSAs emergency rebind. Where Left shift pulls up the menu and WASD is how you navigate. You can then rebind the keys manually. I use `P L ; '` as WASD to navigate, `O` and `[` as yes/no and `]` as toggle.
 
 ## Leveling up isn't working!
 
@@ -43,7 +43,7 @@ Known bug I'm afraid, I guess it doesn't always perfectly detect the landing eve
 
 Try removing them and equipping them in between attempts. I dunno either, man.
 
-## The Civil War questline is horribly messed up. I can't complete the Battle(s) of Whiterun / Solitude / Windhelm. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric(a)/Tullius!
+## The Civil War questline is horribly messed up. I can't complete the Battles. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric(a)/Tullius!
 
 The Civil War questline is incredibly broken even in vanilla Skyrim partially due to the large actor count and infinitely spawning enemies. If you choose to go through with this, I recommend keeping the following things in mind:
 
@@ -92,7 +92,7 @@ If you don't want to do that, just drop by the support channel and I can take a 
 
 ## I crash in Project AHO when I complete a certain quest!
 
-Try this. Load before you start the quest's conclusion. Complete a step. Save. Reload. Complete the next step. Continue until you finish the quest without crashing. I have confirmation that this does work.
+Try to load before you start the quest's conclusion. Complete a step. Save. Reload. Complete the next step. Continue until you finish the quest without crashing. I have confirmation that this does work.
 
 ## I can't take two steps in Lucien's final dungeon without freezing or crashing!
 

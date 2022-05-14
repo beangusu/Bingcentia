@@ -4,13 +4,20 @@
 ## Ultrawide
 If you have an Ultrawide monitor, I've included a fix for Dialogue Interface Reshaped. Under the MO2 separator labeled `Possible Ultrawide Fixes` is the mod you can enable to get it working. 
 
-There may be steps you can take such as reinstalling _Dear Diary_, but these are **unsupported** because I can't help you get it working or test problems with it because I don't have Ultrawide. You can always refer to other Wabbajack READMEs or type use the search bar in discord to look for other people's experiences.
+There may be steps you can take such as reinstalling `Dear Diary`, but these are **unsupported** because I can't help you get it working or test problems with it because I don't have Ultrawide. You can always refer to other Wabbajack READMEs or type use the search bar in discord to look for other people's experiences.
 
-***
+## Copy and Paste in Console
+By default, this mod is set to be Ctrl + Left Shift. 
+
+If you want to change this to how you like it:
+1. Double-click the mod name in MO2 → navigate to the INI tab → change the paste key code using this document https://www.creationkit.com/index.php?title=Input_Script
+2. Press save in the top left corner to apply your changes
+3. Close out of the window, and you're done
+
 ## ENB
-This list comes shipped with Pi-CHO Koanan's Edition ENB with very minor tweaks to the LUT. If you no likey, you could pick from the ENBs I placed in the ` Bingcentia\ENBs` folder or use one from the Nexus :)
+This list comes shipped with Pi-CHO Koanan's Edition ENB with very minor tweaks to the LUT. If you no likey, you could pick from the ENBs I placed in the ` Bingcentia\ENBs` folder or use ones from the Nexus :)
 
-*** 
+
 ## Customizing Controls
 
 The vast majority of these options are configured in the `Controls` portion of Skyrim's pause menu. Please take note that your "Sneak" key is **NO LONGER SNEAK**, it is **DODGE** instead. If you wish to change your sneak key, first configure your **DODGE** key (which is labeled as **SNEAK** in the `Controls` menu, remember). Then open the MCM and choose `The Ultimate Dodge Mod`. There is an entry there for `Sneak Key`, click it and choose what you'd like.
@@ -19,7 +26,7 @@ To change the Quick Light key, open the `Quick Light` MCM and you should see the
 
 The last control you need to configure is within the `True Directional Movement` mod. I recommend setting the `Lock-On` key to one of your alternate mouse buttons, such as the scroll wheel or one of the side buttons, if you have one.
 
-***
+
 ## Using A Controller
 
 Due to incompatibilities with _OStim's_ FreeCam I have disabled all controller mods by default. They can be found under "Controller Options", but serve no purpose so long as you use a mouse and keyboard. However, if you wish to play with a controller, you will have to **enable all these mods** and **delete any ControlMap_Custom" file(s) in your Skyrim game directory.** 
@@ -80,7 +87,27 @@ Fertility mode will pop up a window requesting to turn on. Choose NO right now, 
 
 **NEW!** Almost every MCM is now automated! The only two mods you may be interested in configuring are _Fertility Mode_ and _Ostim_ itself. Read on for details!
 
-***
+   
+## Follower Framework
+
+Not strictly necessary, but your followers may wander around at times without this step. Go to **Activity** and enable _Only Sandbox in Town._ If you don't want your followers using your crafting stations, also enable _Ignore Special Furniture_
+
+## OStim
+
+The settings in this extensive mod are almost all down to personal preference. I recommend you simply "Import Settings" to get my recommendations (scroll all the way down, on the right). If you wish to customize the settings further, I recommend you read about the whole Suite of mods on Nexus. It's pretty cool stuff.
+
+### How To Use This Mod
+
+OStim/OSex is a little tough to get used to but the gist is that you use 8,4,5, and 6 on the NUMPAD like another set of WASD keys to move around in the OSex menus. 7 chooses a command, 9 swaps actors or functions, 1 cancels a command. + is inspect or advance scene, enter is open or close menu. Period or decimal ends the scene. Freecam is now enabled, but not automatically. Press the forward slash key on the NUMPAD to activate it.
+
+Personally as a despicable Boomer and former data entry clerk at UPS, the fact that people willingly choose to do without NUMPADs both disturbs and angers me. But I know it's a thing. If you don't have one, no problem. You can hold down **F8** for 10 seconds to rebind all of OSex's default controls. Good luck finding keys that aren't already in use.
+
+If you encounter a scene that is terribly out of alignment, press the L key to open a menu with tons of options for adjustments (this is the OAlign mod). If you save your changes they will persist for that animation.
+
+At any time you can go up to anyone and press the up arrow to have OSex sex with them. **NOTE: DO NOT INITIATE SEX WITH THE STANDARD OSA MENUS!** (Available via the ENTER key on your numpad.) _OStim_ overrides these, so they will not function.
+
+Creatures do not function with OSex and I have no plans to ever implement them.
+
 ## Immersive Equipment Displays
 
 This mod allows your character + NPCs to have weapons, coin bags, potions, etc. displayed. Basically ALLGUD but better. By default, the list comes with Missile's IED Preset and needs a few steps to set up.
@@ -108,26 +135,6 @@ I would also recommend doing this for NPCs as well:
 
 NPC Items:
 1. In the custom view, select the tab "Global" ⇾ Select "Missile - NPCs" ⇾ Click on merge and accept
-   
-## Follower Framework
-
-Not strictly necessary, but your followers may wander around at times without this step. Go to **Activity** and enable _Only Sandbox in Town._ If you don't want your followers using your crafting stations, also enable _Ignore Special Furniture_
-
-## OStim
-
-The settings in this extensive mod are almost all down to personal preference. I recommend you simply "Import Settings" to get my recommendations (scroll all the way down, on the right). If you wish to customize the settings further, I recommend you read about the whole Suite of mods on Nexus. It's pretty cool stuff.
-
-### How To Use This Mod
-
-OStim/OSex is a little tough to get used to but the gist is that you use 8,4,5, and 6 on the NUMPAD like another set of WASD keys to move around in the OSex menus. 7 chooses a command, 9 swaps actors or functions, 1 cancels a command. + is inspect or advance scene, enter is open or close menu. Period or decimal ends the scene. Freecam is now enabled, but not automatically. Press the forward slash key on the NUMPAD to activate it.
-
-Personally as a despicable Boomer and former data entry clerk at UPS, the fact that people willingly choose to do without NUMPADs both disturbs and angers me. But I know it's a thing. If you don't have one, no problem. You can hold down **F8** for 10 seconds to rebind all of OSex's default controls. Good luck finding keys that aren't already in use.
-
-If you encounter a scene that is terribly out of alignment, press the L key to open a menu with tons of options for adjustments (this is the OAlign mod). If you save your changes they will persist for that animation.
-
-At any time you can go up to anyone and press the up arrow to have OSex sex with them. **NOTE: DO NOT INITIATE SEX WITH THE STANDARD OSA MENUS!** (Available via the ENTER key on your numpad.) _OStim_ overrides these, so they will not function.
-
-Creatures do not function with OSex and I have no plans to ever implement them.
 
 ## Quick Light
 

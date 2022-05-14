@@ -1,5 +1,5 @@
 # 1.0
-### First Test Build!
+### First test build to squash bugs I didn't catch!
 
 **Additions**
 - Realm of Lorkan

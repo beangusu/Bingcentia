@@ -4,6 +4,11 @@
 
 ## Lots of gameplay is the same as _Licentia_, but lots of it has also been changed up! This doc mentions mechanics that are present in _Licentia_ as well as new changes in _Bingcentia_
 
+## Combat
+I've set up this fork with [Samsy's Combat Guide](https://samsytheunicorn.github.io/licentia-combat.html) in mind, almost all the combat mods should be the same. 
+
+The One Click Power Attack Key is binded to Mouse button 4 by default, but you can change this by double-clicking the One Click Power Attack mod on the left pane of MO2, navigating to the INI tab and changing the ForceRightKey value according to this [sheet](https://www.creationkit.com/index.php?title=Input_Script). 
+
 ## Riften Player Home
 I honestly just really like Riften, so I added a [tiny mage home](https://www.nexusmods.com/skyrimspecialedition/mods/12929) on top of the home collection we have in the list already. The home is tucked away on the bottom level of Black-Briar Meadery's exterior in Riften's docks and features an enchanting table, safe storage for your stuff, a cooking station, and fun static clutter. The house is navmeshed too so feel free to bring your followers. 
 

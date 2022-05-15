@@ -35,7 +35,7 @@
 
 **This modlist contains mods with sexual content, you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**
 
-Welcome to the latest incarnation of _Bingcentia_, where I take _Licentia_, crank the visuals up to an 11, remove certain mods, and add personal shit I like along with additions from the community of _Licentia_. This modlist is intended as a high fantasy "Game of Thrones" Skyrim, an ultimate power fantasy where you can use an incredible amount of perks and spells to make the hero you want, with just a touch of racy sexuality. Think of the sex as a minigame or a side thing you do while you adventure!
+Welcome to the latest incarnation of _Bingcentia_, where I take _Licentia_, crank the visuals up to an 11, remove certain mods so people can add their own, and add personal shit I like along with additions from the community of _Licentia_. This modlist is intended as a high fantasy "Game of Thrones" Skyrim, an ultimate power fantasy where you can use an incredible amount of perks and spells to make the hero you want, with just a touch of racy sexuality. Think of the sex as a minigame or a side thing you do while you adventure!
 
 ## List Contents
 - [List of all mods in Bingcentia on Load Order Library](https://loadorderlibrary.com/lists/licentia)
@@ -151,39 +151,32 @@ _If you have successfully used Anniversary Update's Creation Club's (CC) mods fo
 
 #  Using Wabbajack
 
-If you haven't installed Wabbajack yet, grab its latest release from [here](https://github.com/wabbajack-tools/wabbajack/releases), make a folder inside the root of your drive like C:\Wabbajack and place the Wabbajack.exe file inside it. **This folder must not be in the Windows related folders (Desktop, Program Files, Downloads, Documents, OneDrive etc.).**
+Make sure you made a folder in the root of your drive like C:\Wabbajack for the Wabbajack.exe file to sit inside. **This folder must not be in the Windows related folders (Desktop, Program Files, Downloads, Documents, OneDrive etc.).**
 
-1. Open Wabbajack.exe.
-2. Click on Browse Modlists and download The Phoenix Flavour - Dragon's Edition from the gallery.
-3. Once the download is done, set the installation location again somewhere outside Windows related folders like C:\Skyrim SE Modlists\Bingcentia or C:\Bingcentia
-4. Point Wabbajack towards your download location. If you haven't downloaded any mods before, make a folder like D:\Skyrim SE Mods or D:\Skyrim\Mods and then point Wabbajack to it.
-5. Click the Play button.
-6. Wait for Wabbajack to finish.
-7. If you run into a `Installation Failed` screen, simply try restarting the Wabbajack installation. If the installation still fails, ask for help in the unofficial support channel.
  
 ## Problems with Wabbajack
-If for some reason something goes wrong, you can cancel the installation and download these files manually. Place them in the same directory you specified for "Download Location" just above. Please download the _exact versions_ of all the below files:
 
+Some mods will straight up refuse to download, so before you press the play button to start the installation, download them from the links below and place them in the downloads folder you specified for the list:
+
+- [Skyrim Realistic Overhaul Parts 1-3 + SE 1.8 Update](https://www.moddb.com/mods/skyrim-realistic-overhaul/downloads)
+- [Artifacts of Skyrim - Revised Edition](https://www.nexusmods.com/skyrimspecialedition/mods/49779?tab=files&file_id=227637)
+- [AoS - Legacy of the Dragonborn Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49779?tab=files&file_id=232795)
+- [AoS - Nchuak Default Normal Paths](https://www.nexusmods.com/skyrimspecialedition/mods/49779?tab=files&file_id=206665)
 - Version 2.7.9 of [Nether's Follower Framework](https://www.loverslab.com/files/file/6188-nethers-follower-framework/)
 - Version Beta 5 of [OStim Solutions](https://www.loverslab.com/files/file/17441-ostim-solutions-a-sexlab-solutions-revisited-port/)
 - Version 2.1 of [OTrainers](https://www.loverslab.com/files/file/18438-otrainers-ostim-trainers-with-benefits/)
 - Verstion 1.1.4 of [Schlongs of Skyrim SE](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/)
 - Only Available Version of [Leito Schlongs Add-On](https://www.loverslab.com/files/file/13942-sos-leito-schlongs-addon-se/)
 
-Some mods will straight up refuse to download due to the mirror being down like Skyrim Realistic Overhaul. Download them here if needed:
-
-- https://www.moddb.com/mods/skyrim-realistic-overhaul/downloads (Be sure to grab Parts 1-3 and the SE 1.8 Update, **not** the Original Skyrim Version 1.8 Update)
-  
-
 Some of the `Output files` will fail to download due to their size and your internet speed. Keep in mind that you might hit the cap for Mega downloads while installing these too. If that happens, grab a vpn and download them manually from here:
 
 [Bingcentia Custom Files](https://mega.nz/folder/LoRAwS6S#IgfSALnZxW0-68xad94epQ)
 
-Finally there are certain downloads that are hidden on the Nexus that Wabbajack will struggle to download. If these files give you problems, download them from here according to the mod you need:
+If there are still downloads you are struggling on, please consult the downloads listed here for _Licentia_ :
 
 https://github.com/wabbajack-tools/mod-lists/blob/master/reports/wj-featured/Licentia/status.md
 
-There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
+If all else fails, swing by the unofficial support channel for help!
 
 # Post-Installation
 
@@ -193,7 +186,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 The next step is to actually launch the game. Navigate to the directory where you installed _Bingcentia_. Inside you will notice an exe file named _ModOrganizer.exe_. Double click this file to start up MO2. Next, launch the modlist by clicking the `RUN` button next to `Play Bingcentia`.
 
 # Once you are in-game, create your character and follow the MCM instructions below
-Then come back here to read the rest of the README!
+Then come back here to read the rest of the ReadMe.
 
  ## [Bingcentia Configurations And More](https://github.com/beangusu/Bingcentia/blob/main/MCMs.md)
 
@@ -207,13 +200,13 @@ It is rarely recommended continuing a save when you update a modlist because Sky
 
 # Removing the Modlist
 
-You can just remove the _Bingcentia_ folder and be done with it.
+You can just remove the _Bingcentia_ folder and you're good to go!
 
 # Contact
 
 I am regularly available on the [Jolly Co-Op Discord](https://discord.gg/wabbajack). I will not respond to direct messages unless I know you, so pls don't DM me.
 
-If you enjoyed playing this modlist and feel that your time spent with it was worth any amount of money, consider donating to Caco via his [Patreon](https://www.patreon.com/cacophony1979)! I wouldn't have been able to make this modlist without him c:
+If you enjoyed playing this modlist and feel that your time spent with it was worth any amount of money, consider donating to Caco via his [Patreon](https://www.patreon.com/cacophony1979) I wouldn't have been able to make this modlist without him c:
 
 
 # Changelog

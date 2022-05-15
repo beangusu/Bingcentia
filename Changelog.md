@@ -11,25 +11,22 @@
     >With Missile's Prests
 - Hide your Quests
 - Stackable Stones of Barenziah with Quest Markers
-- TUDM Attack Cancel
-- Key Bindable Dual Wield Blocking
-- zxlice Backstab and Parry
-- Flinching SSE
+- Alternate Conversation Camera Tweaks 
+  >This one's for you Curly
+- SkySa, TUDM Attack Cancel, zxlice's Backstab and Parry, Jumping Attacks + many, many more combat mods listed in [Modified Gameplay](Modified%20Gameplay.md)
 - More SmoothCam Presets
-    > Specifically Octavian's Preset and EasyEase
+  > Specifically Octavian's Preset and EasyEase
 - Redid the UI slightly with mods like Dialogue Interface Reshaped and Sanguis Font
 - Nordic..ish UI for TrueHUD
 - Paper Maps!
 - Dynamic Time and Weather Based Detection
 - LOTD Armoury Addon to make it look more lively
 - Bunch of Jayserpa mods
-    >Take A Peek, NPC's wear Amulets of Mara, Conditional Expressions + more
 - Auri Enhanced Voice
 - Serana Fixed Cross Arms Animation
 - Awesome Potions Simplified with a patch for LOTD
-- Awesome Sigil Stones
 - Fuckton of JohnSkyrim's shiny retextures including his recent daggers overhaul
-- Iconic's retextures
+- So many new textures entirely, since I redid most of the base texture setup
 - Moonpath to Elsweyr Retexture
 -  Bunch of ENB Particle Lights mods
 -  Aspens Ablaze
@@ -37,10 +34,10 @@
 -  Mari's Flora
  -  Skyrim 3D Trees and Plants
     > Patched so that we only use the plants from that mod
+- NLA Weathers with FNENB
 - Picta Series - Improved Sky Meshes
 - More Wooden Bridges
 - Elizabeth's Tower - Azura Shrine
-- Rustic Furniture and some other furniture retexes
 - Hrokkva - Tiny Mage Home in Riften
 - Some more Bodyslide Presets
 
@@ -54,12 +51,14 @@
 
 Things I removed from the main list:
 
-- Alduin's Reign Main Menu + new main menu music i forgot its called its cool tho
-  > Replaced with Paramount Main Menu
+- Violens
+  > For the people who love posers
+- Alduin's Reign Main Menu
 - Verydosebrom Reigons
 - Volumetric Mists
-  > Had skybox issues with some ENBs I tried
+  > Had skybox issues with current ENB
 - Improved Camera
+- Minimap
 - Alternate Start
   > Replaced with Realm of Lorkhan
 - Combat Gameplay Overhaul
@@ -67,20 +66,18 @@ Things I removed from the main list:
   > Not a fan of gore
 - Frozen Electrocuted Commbustion
 - Slip off Slopes
-- Triple Triad
 - Mihail's monsters
 - Sofia and Vilja
-  > Not a fan of them and Sofia keeps taking off her fuckign clothes!!
-- Gladys and Merlin
-  > I wanted plugin space :c
+  > Not a fan of them plus Sofia keeps taking off her fuckign clothes when I test shit!!
+- Gladys and Merlin for plugin space :(
 - Tavern Games
+- Triple Triad
 - Genesis Unleashed
 - Eekie's Kaidan
   > Replaced with High Poly Kaidan
 - Sink or Swim
 - OProstitution, OVirginity, OAroused, and OBooty 
-  >No sluts allowed
-- Fertility Mode
+  >No sluts allowed. Joking, I'm just ehh about these mods
 - LOTD Lighting Mod 
   > Made LOTD too bright imo
 - Fixed Mesh Lighting 

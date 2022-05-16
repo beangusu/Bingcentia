@@ -1,5 +1,5 @@
 # 0.5
-## First test build!
+## First beta build!
 
 
 **Additions**
@@ -13,7 +13,7 @@
 - Stackable Stones of Barenziah with Quest Markers
 - Alternate Conversation Camera Tweaks 
   >This one's for you Curly
-- SkySa, TUDM Attack Cancel, zxlice's Backstab and Parry, Jumping Attacks + many, many more combat mods listed in [Modified Gameplay](Modified%20Gameplay.md)
+- TUDM Attack Cancel, zxlice's Backstab and Parry, Jumping Attacks + many more combat mods listed in [Modified Gameplay](Modified%20Gameplay.md)
 - More SmoothCam Presets
   > Specifically Octavian's Preset and EasyEase
 - Redid the UI slightly with mods like Dialogue Interface Reshaped and Sanguis Font
@@ -26,7 +26,7 @@
 - Serana Fixed Cross Arms Animation
 - Awesome Potions Simplified with a patch for LOTD
 - Fuckton of JohnSkyrim's shiny retextures including his recent daggers overhaul
-- So many new textures entirely, since I redid most of the base texture setup
+- So many new textures, since I redid most of the base texture setup
 - Moonpath to Elsweyr Retexture
 -  Bunch of ENB Particle Lights mods
 -  Aspens Ablaze
@@ -38,7 +38,7 @@
 - Picta Series - Improved Sky Meshes
 - More Wooden Bridges
 - Elizabeth's Tower - Azura Shrine
-- Hrokkva - Tiny Mage Home in Riften
+- Many [player homes](Modified%20Gameplay.md)
 - Some more Bodyslide Presets
 
 

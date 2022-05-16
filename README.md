@@ -38,7 +38,7 @@
 Welcome to the latest incarnation of _Bingcentia_, where I take _Licentia_, crank the visuals up to an 11, remove certain mods so people can add their own, and add personal shit I like along with additions from the community of _Licentia_. This modlist is intended as a high fantasy "Game of Thrones" Skyrim, an ultimate power fantasy where you can use an incredible amount of perks and spells to make the hero you want, with just a touch of racy sexuality. Think of the sex as a minigame or a side thing you do while you adventure!
 
 ## List Contents
-- [List of all mods in Bingcentia on Load Order Library](https://loadorderlibrary.com/lists/licentia)
+- [List of all mods in Bingcentia on Load Order Library](https://loadorderlibrary.com/lists/bingcentia)
 ## Project Tracking
 - I also have a [Trello](https://trello.com/b/OxQbKvxy/bingcentia) if you want to check out what I have planned or the progress of an update!
 
@@ -188,9 +188,7 @@ The next step is to actually launch the game. Navigate to the directory where yo
 # Once you are in-game, create your character and follow the MCM instructions below
 Then come back here to read the rest of the ReadMe.
 
- ## [Bingcentia Configurations And More](https://github.com/beangusu/Bingcentia/blob/main/MCMs.md)
-
-<br>
+ ## [Bingcentia Configurations And More](Configurations.md)
 
 # Updating the Modlist
 

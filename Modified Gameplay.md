@@ -2,24 +2,43 @@
 
 ![Bingcentia](Media/Bingcentia.png)
 
-## Lots of gameplay is the same as _Licentia_, but lots of it has also been changed up! This doc mentions mechanics that are present in _Licentia_ as well as new changes in _Bingcentia_
+## Lots of gameplay is the same as _Licentia_, but lots of it has also been changed up! This document mentions mechanics that are present in _Licentia_ as well as new changes in _Bingcentia_
 
 ## Combat
-I've set up this fork with [Samsy's Combat Guide](https://samsytheunicorn.github.io/licentia-combat.html) in mind, almost all the combat mods should be the same. 
+I've set up this fork with [Samsy's Combat Guide](https://samsytheunicorn.github.io/licentia-combat.html) as a base, with some mods like _SkySa_ and its add-ons removed (will be added in later versions however)
 
-The One Click Power Attack Key is binded to Mouse button 4 by default, but you can change this by double-clicking the One Click Power Attack mod on the left pane of MO2, navigating to the INI tab and changing the ForceRightKey value according to this [sheet](https://www.creationkit.com/index.php?title=Input_Script). 
+**New Combat Mods (please read the mod pages for more info!):**
+- [Dual Wield Blocking](https://www.nexusmods.com/skyrimspecialedition/mods/16334)
+- [TUDM Attack Cancel](https://www.nexusmods.com/skyrimspecialedition/mods/40313)
+- [Post Hit Killmoves and Executions](https://www.nexusmods.com/skyrimspecialedition/mods/65117)
+- [Killmove Paralysis Prevention](https://www.nexusmods.com/skyrimspecialedition/mods/65312)
+- [Animated Shouts](https://www.nexusmods.com/skyrimspecialedition/mods/50559)
+- [Jumping Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/68043)
+- [Block Enchantments](https://www.nexusmods.com/skyrimspecialedition/mods/60833)
+- [Poison Blocking](https://www.nexusmods.com/skyrimspecialedition/mods/51046)
+- [Stop on Slash](https://www.nexusmods.com/skyrimspecialedition/mods/66155)
+- [Backstab and Parry](https://www.nexusmods.com/skyrimspecialedition/mods/43436)
+- [Better Combat Escape](https://www.nexusmods.com/skyrimspecialedition/mods/43936)
+- [Simple Block Sparks](https://www.nexusmods.com/skyrimspecialedition/mods/58927)
+- [Flinching](https://www.nexusmods.com/skyrimspecialedition/mods/42550)
+- [Formless Mist Raven](https://www.nexusmods.com/skyrimspecialedition/mods/66914)
 
-## Riften Player Home
-I honestly just really like Riften, so I added a [tiny mage home](https://www.nexusmods.com/skyrimspecialedition/mods/12929) on top of the home collection we have in the list already. The home is tucked away on the bottom level of Black-Briar Meadery's exterior in Riften's docks and features an enchanting table, safe storage for your stuff, a cooking station, and fun static clutter. The house is navmeshed too so feel free to bring your followers. 
+If you have any questions about these mods, ask away in the unofficial support channel!
+
+## Added Player Homes
+
+For those who dislike LOTD, but would like a really cool player home!
+
+- [Tiny Mage Home in Riften](https://www.nexusmods.com/skyrimspecialedition/mods/12929)
+- [Astronomer's Loft - Library Home in Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/38059)
+- [Solitude Rectory - Imperial Temple Home](https://www.nexusmods.com/skyrimspecialedition/mods/23735)
+- [Terra Umbra - Mobile Floating Island](https://www.nexusmods.com/skyrimspecialedition/mods/23845)
 
 ## Vampires and Sun Damage
 I've included a mechanic I've made so that, as a vampire, you do not take sun damage when wearing a hood or a helmet. So now you can run around during the day as a vamp >:). HOWEVER, this applies to NPCs as well. If they wear a hood or a helmet, they take no sun damage also (hehe). Additionally, completing the Blueblood Quest also adds several perks to get rid of sun damage.
 
 ## Conduit
 Due to this mod, we can have some really cool spellsword builds. It allows you to hold a weapon in one hand with a spell in the other, and "conduct" the spell through that weapon. Give the [mod page](https://www.nexusmods.com/skyrimspecialedition/mods/58023) a lookie if you're curious on how it works.
-
-## Dual Wield Blocking and TUDM Attack Cancel
-I removed CGO, so I figured I'd add a way for people to dual wield block still. [Key Bindable Dual Wield Blocking](https://www.nexusmods.com/skyrimspecialedition/mods/16334?tab=description) allows you to block while dual wielding and adds a new keybind for the new block key. On top of that, with [TUDM Attack Cancel](https://www.nexusmods.com/skyrimspecialedition/mods/40313?tab=files), you can dodge to cancel your attacks.
 
 ## Leveling up
 

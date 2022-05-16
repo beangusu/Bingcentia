@@ -1,8 +1,7 @@
 # This video game has been modified
-
+### Lots of gameplay is the same as _Licentia_, but lots of it has also been changed up! This document mentions mechanics that are present in _Licentia_ as well as new changes in _Bingcentia_
 ![Bingcentia](Media/Bingcentia.png)
 
-## Lots of gameplay is the same as _Licentia_, but lots of it has also been changed up! This document mentions mechanics that are present in _Licentia_ as well as new changes in _Bingcentia_
 
 ## Combat
 I've set up this fork with [Samsy's Combat Guide](https://samsytheunicorn.github.io/licentia-combat.html) as a base, with some mods like _SkySa_ and its add-ons removed (will be added in later versions however)

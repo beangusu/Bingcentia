@@ -1,25 +1,22 @@
 
-# Bingcentia Configuration
+# Optional Mods
 
-## Ultrawide
-If you have an Ultrawide monitor, I've included a fix for Dialogue Interface Reshaped. Under the MO2 separator labeled `Possible Ultrawide Fixes` is the mod you can enable to get it working. 
+## ENB Configurations
+This list comes shipped with FNENB/NLA Weathers along with Vicious Reshade. If you no likey, you could edit the values by pressing the `END` key on your keyboard to bring up the ENB GUI, press the `HOME` key instead to edit the Reshade/turn it off, or try out some reshades from the Nexus.
+
+### Weather Options
+If none of this really scratches your ENB itch, I've included a way to easily switch from NLA Weathers and FNENB. In the left pane of MO2, under the `Weathers` separator, is Cathedral Weathers, Obsidian Weathers, and NAT 3 with their respective patches but all disabled. 
+
+All you need to do take note of where these weather mods and their patches are in the right pane's load order, untick `NLA Weather plugin and resources` and `AOS - NLA Consistency Patch`, enable the weather mod of your choice with its patches, and place these plugins in the load order according to where you took note of them (if you forgot, refer to [Load Order Library](https://loadorderlibrary.com/lists/bingcentia)). [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077?tab=files) is also within the list for you to easily try out different ENBs as you like :)
+
+## Ultrawide Options
+If you have an Ultrawide monitor, I've included some fixes you can enable under the `Possible Ultra Widescreen Fixes` separator.
 
 There may be steps you can take such as reinstalling `Dear Diary`, but these are **unsupported** because I can't help you get it working or test problems with it because I don't have Ultrawide. You can always refer to other Wabbajack READMEs or type use the search bar in discord to look for other people's experiences.
 
-## Copy and Paste in Console
-By default, this mod is set to be Ctrl + Left Shift. 
-
-If you want to change this to how you like it:
-1. Double-click the mod name in MO2 → navigate to the INI tab → change the paste key code using this document https://www.creationkit.com/index.php?title=Input_Script
-2. Press save in the top left corner to apply your changes
-3. Close out of the window, and you're done
-
-## ENB
-This list comes shipped with FNENB/NLA Weathers along with Vicious Reshade. If you no likey, you could edit the values by pressing the `END` key on your keyboard to bring up the GUI, try out some reshades from the Nexus, or just ask in the unofficial support channel on how to remove it so you can add your favorite weather mod :)
-
 ## Using A Controller
 
-Due to incompatibilities with _OStim's_ FreeCam, Caco has disabled all controller mods by default. The mods can be found under "Controller Options", but serve no purpose so long as you use a mouse and keyboard. However, if you wish to play with a controller, you will have to **enable all these mods** and **delete any ControlMap_Custom" file(s) in your Skyrim game directory.** 
+Due to incompatibilities with _OStim's_ FreeCam, Caco has disabled all controller mods by default. The mods can be found under the `Possible Controller Fixes` separator, but serve no purpose so long as you use a mouse and keyboard. However, if you wish to play with a controller, you will have to **enable all these mods** and **delete any _ControlMap_Custom_ file(s) in your Skyrim game directory.** 
 
 _If there is no such file in your Skyrim directory, you do not need to worry about it. Just make certain one is not present._
 
@@ -43,20 +40,20 @@ These are Caco's recommendations:
 >- D-Pad Up: Turn on / off Quick Light
 >- D-Pad Down: Sneak / Stop Sneaking
 >- D-Pad Left: Lock On
- 
- *You will probably crouch up and down and turn lights on and off in dialog menus. Use the sticks instead!*
+<br>
+You will probably crouch up and down and turn lights on and off in dialog menus. Use the sticks instead!
 
-# WARNING!
+## NSFW Warnings
 
 A handful of mods in this list contain sexual content that may be a bit too "raw" for some players, namely `Amorous Adventures` and` OStim Solutions`, which feature potentially disturbing content including graphic depictions of outlandish fetishes and/or non-consensual sex. However, Caco has gone out of his way to alter them so that all of them are optional and/or clearly marked as offensive. None of this content will be "sprung" on you without your consent. If you wish to avoid them, ensure that you _do not select any dialog options with a "disturbing content" warning._
 
 ## Disabling NSFW
 
-You may wish for the sex part of the list to be completely optional. While you cannot remove the adult dialog options without reworking most of the list, you **can** ensure that any pornographic imagery only takes place when you choose for it to. On the left pane of MO2, there is a mod named `ONights`. This ESP enables NPCs in the game to have sex with each other on their own without your input. Once again, you must disable it **ONLY BEFORE CHOOSING NEW GAME.** Doing so at any other time will cause issues. 
+You may wish for the sex part of the list to be completely optional. While you cannot remove the adult dialog options without reworking most of the list, you **can** ensure that any pornographic imagery only takes place when you choose for it to. On the left pane of MO2, there are mod named `ONights` and `OIsThisABadTime` that you can untick. These mods enable _only_ criminal NPCs in the game to have sex with each other on their own without your input. You must disable these mods **ONLY BEFORE CHOOSING NEW GAME.** Doing so at any other time will cause issues!
 
 Still want to sleep your way around Skyrim without straight-up watching porn? Thanks to _Licentia_ users, we have an option for that now as well. In addition to the above options, simply enable the `OFadeToBlack` mod in its corresponding MCM menu, and disable the stripping of `Slots 49 and 56` in Ostim's `Undressing` MCM section. This will cause the screen to Fade To Black every time a sex scene begins, so you can still get the quest rewards without the NSFW. On top of that, you'll want to tick on the `Undies.esp` on very bottom of the right pane in MO2. This'll give everyone a pair of lootable underwear, so you don't get jumpscared with nakey people when looting them.
 
-I do have a bit of a warning here, however. Although distribution is rather rare, there are still a few skimpy outfits sprinkled throughout the list. This option was left enabled since lots of _Licentia_ users enjoy that. To be more specific, the Khajiit caravans sell extremely slooty armors from _BD's Armor Replacer_ (which are basically bikinis from _TAWOBA_) and some of the skimpier outfits from _The Book of UUNP_ can sometimes be found on NPCs.
+I do have a bit of a warning here, however. Although distribution is rather rare, there are still a few skimpy outfits sprinkled throughout the list, since lots of _Licentia_ users enjoy that. To be more specific, the Khajiit caravans sell extremely slooty armors from _BD's Armor Replacer_ (which are basically bikinis from _TAWOBA_) and some skimpier outfits from _The Book of UUNP_ can sometimes be found on NPCs.
 
 # Character Creation
 

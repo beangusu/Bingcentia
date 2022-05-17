@@ -1,5 +1,21 @@
 
 # Optional Mods
+- [Optional Mods](#optional-mods)
+  - [ENB Configurations](#enb-configurations)
+    - [Weather Options](#weather-options)
+  - [Ultrawide Options](#ultrawide-options)
+  - [Using A Controller](#using-a-controller)
+  - [NSFW Warnings](#nsfw-warnings)
+  - [Disabling NSFW](#disabling-nsfw)
+- [Character Creation](#character-creation)
+- [Post Character Creation](#post-character-creation)
+  - [In-Game MCM Options](#in-game-mcm-options)
+  - [Follower Framework](#follower-framework)
+  - [OStim](#ostim)
+    - [How To Use This Mod](#how-to-use-this-mod)
+  - [Immersive Equipment Displays](#immersive-equipment-displays)
+  - [Quick Light](#quick-light)
+  - [Skyrim Outfit System](#skyrim-outfit-system)
 
 ## ENB Configurations
 This list comes shipped with FNENB/NLA Weathers along with Vicious Reshade. If you no likey, you could edit the values by pressing the `END` key on your keyboard to bring up the ENB GUI, press the `HOME` key instead to edit the Reshade/turn it off, or try out some reshades from the Nexus.
@@ -49,7 +65,7 @@ A handful of mods in this list contain sexual content that may be a bit too "raw
 
 ## Disabling NSFW
 
-You may wish for the sex part of the list to be completely optional. While you cannot remove the adult dialog options without reworking most of the list, you **can** ensure that any pornographic imagery only takes place when you choose for it to. On the left pane of MO2, there are mod named `ONights` and `OIsThisABadTime` that you can untick. These mods enable _only_ criminal NPCs in the game to have sex with each other on their own without your input. You must disable these mods **ONLY BEFORE CHOOSING NEW GAME.** Doing so at any other time will cause issues!
+You may wish for the sex part of the list to be completely optional. While you cannot remove the adult dialog options without reworking most of the list, you **can** ensure that any pornographic imagery only takes place when you choose for it to. On the left pane of MO2, there are mods named `ONights` and `OIsThisABadTime` that you can untick. These mods enable _only_ criminal NPCs in the game to have sex with each other on their own without your input. You must disable these mods **ONLY BEFORE CHOOSING NEW GAME.** Doing so at any other time will cause issues!
 
 Still want to sleep your way around Skyrim without straight-up watching porn? Thanks to _Licentia_ users, we have an option for that now as well. In addition to the above options, simply enable the `OFadeToBlack` mod in its corresponding MCM menu, and disable the stripping of `Slots 49 and 56` in Ostim's `Undressing` MCM section. This will cause the screen to Fade To Black every time a sex scene begins, so you can still get the quest rewards without the NSFW. On top of that, you'll want to tick on the `Undies.esp` on very bottom of the right pane in MO2. This'll give everyone a pair of lootable underwear, so you don't get jumpscared with nakey people when looting them.
 

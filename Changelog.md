@@ -1,7 +1,7 @@
 # 0.5
 ## First beta build!
 
-Full Comparison of _Licentia_ and _Bingcentia_ is [here]()
+Full Comparison of _Licentia_ and _Bingcentia_ is [here](https://loadorderlibrary.com/compare/bingcentia/licentia)
 
 
 **Additions**

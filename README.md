@@ -22,7 +22,7 @@
   - [Problems with Wabbajack](#problems-with-wabbajack)
 - [Post-Installation](#post-installation)
   - [Launching the Game](#launching-the-game)
-- [Once you are in-game, create your character and follow the MCM instructions below](#once-you-are-in-game-create-your-character-and-follow-the-mcm-instructions-below)
+  - [Once you are in-game, create your character and follow the MCM instructions below](#once-you-are-in-game-create-your-character-and-follow-the-mcm-instructions-below)
   - [Bingcentia Configurations And More](#bingcentia-configurations-and-more)
 - [Updating the Modlist](#updating-the-modlist)
 - [Removing the Modlist](#removing-the-modlist)
@@ -169,7 +169,7 @@ Some mods will straight up refuse to download, so before you press the play butt
 - Verstion 1.1.4 of [Schlongs of Skyrim SE](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/)
 - Only Available Version of [Leito Schlongs Add-On](https://www.loverslab.com/files/file/13942-sos-leito-schlongs-addon-se/)
 
-Some of the `Output files` will fail to download due to their size and your internet speed. Keep in mind that you might hit the cap for Mega downloads while installing these too. If that happens, grab a vpn and download them manually from here:
+Some of the `Output files` will fail to download due to their size and your internet speed. Keep in mind that you might hit the cap for Mega downloads while installing these too. If that happens, just download them manually from here:
 
 [Bingcentia Custom Files](https://mega.nz/folder/LoRAwS6S#IgfSALnZxW0-68xad94epQ)
 
@@ -186,7 +186,7 @@ If all else fails, swing by the unofficial support channel for help!
 
 The next step is to actually launch the game. Navigate to the directory where you installed _Bingcentia_. Inside you will notice an exe file named _ModOrganizer.exe_. Double click this file to start up MO2. Next, launch the modlist by clicking the `RUN` button next to `Play Bingcentia`.
 
-# Once you are in-game, create your character and follow the MCM instructions below
+## Once you are in-game, create your character and follow the MCM instructions below
 Then come back here to read the rest of the ReadMe.
 
  ## [Bingcentia Configurations And More](Configurations.md)

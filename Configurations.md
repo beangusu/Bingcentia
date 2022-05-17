@@ -15,11 +15,11 @@ If you want to change this to how you like it:
 3. Close out of the window, and you're done
 
 ## ENB
-This list comes shipped with FNENB/NLA Weathers along with Vicious Reshade. If you no likey, you could edit the values by pressing the `END` key on your keyboard to bring up the GUI, try out the reshades I placed in the `Reshades` folder to spruce it up, or just ask in the unofficial support channel on how to remove it, so you can add your favorite weather mod :)
+This list comes shipped with FNENB/NLA Weathers along with Vicious Reshade. If you no likey, you could edit the values by pressing the `END` key on your keyboard to bring up the GUI, try out some reshades from the Nexus, or just ask in the unofficial support channel on how to remove it so you can add your favorite weather mod :)
 
 ## Using A Controller
 
-Due to incompatibilities with _OStim's_ FreeCam, Caco has disabled all controller mods by default. They mods can be found under "Controller Options", but serve no purpose so long as you use a mouse and keyboard. However, if you wish to play with a controller, you will have to **enable all these mods** and **delete any ControlMap_Custom" file(s) in your Skyrim game directory.** 
+Due to incompatibilities with _OStim's_ FreeCam, Caco has disabled all controller mods by default. The mods can be found under "Controller Options", but serve no purpose so long as you use a mouse and keyboard. However, if you wish to play with a controller, you will have to **enable all these mods** and **delete any ControlMap_Custom" file(s) in your Skyrim game directory.** 
 
 _If there is no such file in your Skyrim directory, you do not need to worry about it. Just make certain one is not present._
 
@@ -138,7 +138,3 @@ This mod allows you to have multiple outfit appearances that can be saved, favor
 Using this Mod is optional, but you MUST use the "Change Outfit" Power and select [NO OUTFIT] if you wish to see your character nude for Ostim scenes.  This power can be used after starting the scene if you forget to turn it off before the scene begins.  WARNING: The setting under Outfit settings (while creating a new Outfit) "Require Equipped Armors" **WILL NOT REMOVE YOUR UNDERWEAR.**  You must manually select [NO OUTFIT] each time you start a scene.
 
 _You must Favorite an Outfit to see it in the Change Outfit Power Menu_
-
-## VioLens
-
-Load the "Tinvaak" profile. (Not related to that modlist, named such for Compatibility reasons.)

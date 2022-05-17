@@ -1,6 +1,8 @@
 # 0.5
 ## First beta build!
 
+Full Comparison of _Licentia_ and _Bingcentia_ is [here]()
+
 
 **Additions**
 - Realm of Lorkan
@@ -20,7 +22,11 @@
 - Nordic..ish UI for TrueHUD
 - Paper Maps!
 - Dynamic Time and Weather Based Detection
+- Talkative Dragons
+- Some of AndrealphusVIII's mods
 - LOTD Armoury Addon to make it look more lively
+- Bonemold Weapons
+- 4th Unknown's Dark Brotherhood Armor
 - Bunch of Jayserpa mods
 - Auri Enhanced Voice
 - Serana Fixed Cross Arms Animation
@@ -32,7 +38,7 @@
 -  Aspens Ablaze
 -  Folkvangr Landscapes and Grass
 -  Mari's Flora
- -  Skyrim 3D Trees and Plants
+-  Skyrim 3D Trees and Plants
     > Patched so that we only use the plants from that mod
 - NLA Weathers with FNENB
 - Picta Series - Improved Sky Meshes
@@ -43,7 +49,7 @@
 
 
 <br>
-... And a bunch of other things that are too long to list here
+... And a bunch of other things that are too long to list here!
 
 ***
 
@@ -67,12 +73,14 @@ Things I removed from the main list:
 - Frozen Electrocuted Commbustion
 - Slip off Slopes
 - Mihail's monsters
+- You Hunger
 - Sofia and Vilja
   > Not a fan of them plus Sofia keeps taking off her fuckign clothes when I test shit!!
 - Gladys and Merlin for plugin space :(
 - Tavern Games
 - Triple Triad
 - Genesis Unleashed
+- The Sinister Seven
 - Eekie's Kaidan
   > Replaced with High Poly Kaidan
 - Sink or Swim

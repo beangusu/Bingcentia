@@ -162,6 +162,7 @@ Some mods will straight up refuse to download, so before you press the play butt
 - [Artifacts of Skyrim - Revised Edition](https://www.nexusmods.com/skyrimspecialedition/mods/49779?tab=files&file_id=227637)
 - [AoS - Legacy of the Dragonborn Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49779?tab=files&file_id=232795)
 - [AoS - Nchuak Default Normal Paths](https://www.nexusmods.com/skyrimspecialedition/mods/49779?tab=files&file_id=206665)
+- [4thUnknown's Dark Brotherhood Armor](https://www.nexusmods.com/skyrimspecialedition/mods/57539?tab=files&file_id=237218)
 - Version 2.7.9 of [Nether's Follower Framework](https://www.loverslab.com/files/file/6188-nethers-follower-framework/)
 - Version Beta 5 of [OStim Solutions](https://www.loverslab.com/files/file/17441-ostim-solutions-a-sexlab-solutions-revisited-port/)
 - Version 2.1 of [OTrainers](https://www.loverslab.com/files/file/18438-otrainers-ostim-trainers-with-benefits/)

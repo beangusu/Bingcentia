@@ -4,7 +4,7 @@
 
 
 ## Combat
-I've set up this fork with [Samsy's Combat Guide](https://samsytheunicorn.github.io/licentia-combat.html) as a base, with some mods like _SkySa_ and its add-ons removed (will be added in later versions however)
+I've set up this fork with [Samsy's Combat Guide](https://samsytheunicorn.github.io/licentia-combat.html) as a base, but with some mods like _SkySa_ and its add-ons removed (will be added in later versions however)
 
 **New Combat Mods (please read the mod pages for more info!):**
 - [Dual Wield Blocking](https://www.nexusmods.com/skyrimspecialedition/mods/16334)

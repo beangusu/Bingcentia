@@ -1,35 +1,9 @@
 # PLEASE DO NOT CLOSE THIS! This modlist WILL NOT FUNCTION unless you follow the steps in this document!
 
-## THIS LIST ALSO REQUIRES THE MOST RECENT VERSION OF SKYRIM ALONG WITH THE $20 AE DLC!
-
-- [PLEASE DO NOT CLOSE THIS! This modlist WILL NOT FUNCTION unless you follow the steps in this document!](#please-do-not-close-this-this-modlist-will-not-function-unless-you-follow-the-steps-in-this-document)
-  - [THIS LIST ALSO REQUIRES THE MOST RECENT VERSION OF SKYRIM ALONG WITH THE $20 AE DLC!](#this-list-also-requires-the-most-recent-version-of-skyrim-along-with-the-20-ae-dlc)
-- [Preamble](#preamble)
-  - [List Contents](#list-contents)
-  - [Project Tracking](#project-tracking)
-  - [Modified Gameplay](#modified-gameplay)
-- [STRONG WARNINGS](#strong-warnings)
-- [Requirements](#requirements)
-  - [System Specs](#system-specs)
-  - [Pagefile](#pagefile)
-- [Installation](#installation)
-  - [Pre-Installation](#pre-installation)
-    - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
-    - [Installing .NET 5.0](#installing-net-50)
-  - [Steam Setup](#steam-setup)
-  - [Anniversary Upgrade](#anniversary-upgrade)
-- [Using Wabbajack](#using-wabbajack)
-  - [Problems with Wabbajack](#problems-with-wabbajack)
-- [Post-Installation](#post-installation)
-  - [Launching the Game](#launching-the-game)
-  - [Once you are in-game, create your character and follow the MCM instructions below](#once-you-are-in-game-create-your-character-and-follow-the-mcm-instructions-below)
-  - [Bingcentia Configurations And More](#bingcentia-configurations-and-more)
-- [Updating the Modlist](#updating-the-modlist)
-- [Removing the Modlist](#removing-the-modlist)
-- [Contact](#contact)
-- [Changelog](#changelog)
+**THIS LIST ALSO REQUIRES THE MOST RECENT VERSION OF SKYRIM ALONG WITH THE $20 AE DLC!**
 
 ![Bingcentia](Media/Bingcentia.png)
+
 
 # Preamble
 
@@ -43,7 +17,7 @@ Welcome to the latest incarnation of _Bingcentia_, where I take _Licentia_, cran
 - I also have a [Trello](https://trello.com/b/OxQbKvxy/bingcentia) if you want to check out what I have planned or the progress of an update!
 
 ## Modified Gameplay
-Gameplay has been modified a bit, but doesn't stray that far away from _Licentia_, I recommend taking a look at this anyway to see what's new:
+Gameplay has been modified a bit, but doesn't stray that far away from _Licentia_, I recommend taking a look at the _Modified Gameplay_ artcile anyway to see what's new:
 
   [Gameplay Changes](Modified%20Gameplay.md)
 
@@ -53,9 +27,9 @@ Gameplay has been modified a bit, but doesn't stray that far away from _Licentia
 
 **This list is completely seperate from Licentia despite some basic features being the same.** 
 
-If you wish to add or modify the _slightest little thing_, even a seemingly innocuous change such as a RaceMenu or BodySlide preset, an ENB preset or an INI setting, **you must ask for support in the unoffical support channels.** The **only** exceptions are those changes for your particular setup that have already been mentioned elsewhere in this readme, such as mods for Gamepads or UltraWide. Changing resolution is also fine.
+If you wish to add or modify the _slightest little thing_, even a seemingly innocuous change such as a RaceMenu or BodySlide preset, an ENB preset or an INI setting, **you must ask for support in the unofficial support channels.** The **only** exceptions are those changes for your particular setup that have already been mentioned elsewhere in this README, such as mods for Gamepads or Ultrawide. Changing resolution is also fine.
 
-Also, before asking a question, look at [Troubleshooting](https://github.com/beangusu/Bingcentia/blob/main/TROUBLESHOOTING.md)! Most questions can be answered there.
+Also, before asking a question, look at [Troubleshooting](https://github.com/beangusu/Bingcentia/blob/main/TROUBLESHOOTING.md)! Most technical and gameplay questions can be answered there.
 
 
 # Requirements
@@ -72,13 +46,13 @@ My best estimate as to what you need to play _Bingcentia_ enjoyably is as follow
 - GPU: >= NVIDIA RTX 2070, OR >= AMD RX 5700; please keep in mind that AMD cards tend to have problems with ENB and are not recommended
 - RAM: >= DDR4 with at least 16GBs, preferably more
 <!--  -->
-Please bear in mind that this is an extremely demanding list, more so than Licentia. Even with very high system specs you may experience slowdowns and stutter periods as various resources load in. 
+Please bear in mind that this is an extremely demanding list, even a bit more so than Licentia. Even with very high system specs you may experience slowdowns and stutter periods as various resources load in. 
 
 Everything should be installed on an SSD, since the game can be borderline unplayable on an HDD, that has at least 265GB of space available, although you can relocate your downloads folder to another drive if you need space. 
 
 ## Pagefile
 
-For this list to run smoothly, you need a very large pagefile set on the drive you have the list installed on and a system managed pagefile on another drive. I myself have it at 50GB.
+For this list to run smoothly, you need a very large pagefile set on the drive you have the list installed on as well as a system managed pagefile on another drive. I myself have it at 50GB.
 
 To make these changes:
 
@@ -181,15 +155,15 @@ If all else fails, swing by the unofficial support channel for help!
 
 # Post-Installation
 
-
 ## Launching the Game
 
 The next step is to actually launch the game. Navigate to the directory where you installed _Bingcentia_. Inside you will notice an exe file named _ModOrganizer.exe_. Double click this file to start up MO2. Next, launch the modlist by clicking the `RUN` button next to `Play Bingcentia`.
 
-## Once you are in-game, create your character and follow the MCM instructions below
-Then come back here to read the rest of the ReadMe.
+## Once you have the list installed, follow the article below!
 
- ## [Bingcentia Configurations And More](Configurations.md)
+Then come back here to read the rest of the ReadMe!
+
+[Bingcentia Configurations And More](Configurations.md)
 
 # Updating the Modlist
 

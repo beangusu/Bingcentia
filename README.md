@@ -193,7 +193,7 @@ Then come back here to read the rest of the ReadMe.
 
 # Updating the Modlist
 
-When an update is pushed, simply re-download the modlist from the Gallery and specify the same directories you did the first time. Then check the "Overwrite" box. This will **delete** any customizations you have made to the modlist. Refer to the unoffical support channel on how to keep them.
+When an update is pushed, simply re-download the modlist from the Gallery and specify the same directories you did the first time. Then check the "Overwrite" box. This will **delete** any customizations you have made to the modlist. If you want to keep your additions when you update, add the `[NoDelete]` tag to the beginning of the mod's name, `[NoDelete] Mod Name`, for example.
 
 It is rarely recommended continuing a save when you update a modlist because Skyrim _does not_ like it when you do that. Only update on a current save if you wish to start the game over, or if there is some horrible bug with it.
 

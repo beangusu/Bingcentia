@@ -1,5 +1,5 @@
 # This video game has been modified
-### Lots of gameplay is the same as _Licentia_, but lots of it has also been changed up! This document mentions mechanics that are present in _Licentia_ as well as new changes in _Bingcentia_
+**Lots of gameplay is the same as _Licentia_, but lots of it has also been changed up! This document mentions mechanics that are present in _Licentia_ as well as new changes in _Bingcentia_**
 ![Bingcentia](Media/Bingcentia.png)
 
 

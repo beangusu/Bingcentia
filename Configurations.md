@@ -1,5 +1,3 @@
-
-# Optional Mods
 - [Optional Mods](#optional-mods)
   - [ENB Configurations](#enb-configurations)
     - [Weather Options](#weather-options)
@@ -10,12 +8,14 @@
 - [Character Creation](#character-creation)
 - [Post Character Creation](#post-character-creation)
   - [In-Game MCM Options](#in-game-mcm-options)
-  - [Follower Framework](#follower-framework)
-  - [OStim](#ostim)
-    - [How To Use This Mod](#how-to-use-this-mod)
+    - [Quick Light](#quick-light)
+    - [Skyrim Outfit System](#skyrim-outfit-system)
+    - [Follower Framework](#follower-framework)
+    - [OStim](#ostim)
+      - [How To Use This Mod](#how-to-use-this-mod)
   - [Immersive Equipment Displays](#immersive-equipment-displays)
-  - [Quick Light](#quick-light)
-  - [Skyrim Outfit System](#skyrim-outfit-system)
+
+# Optional Mods
 
 ## ENB Configurations
 This list comes shipped with FNENB/NLA Weathers along with Vicious Reshade. If you no likey, you could edit the values by pressing the `END` key on your keyboard to bring up the ENB GUI, press the `HOME` key instead to edit the Reshade/turn it off, or try out some reshades from the Nexus.
@@ -90,15 +90,27 @@ Tweak to your liking, but bear in mind that many of the hairstyles will **NOT** 
 
 Almost every MCM is also now automated thanks to MCM Recorder! When the messages in the top left corner stop appearing, click `OK` on MCM Recorder's box to let it do its thing.
 
-## Follower Framework
+### Quick Light
+
+Just as a note here, the free lantern can be turned on at any time by striking the 'NUMPAD 1' key or holding down the `Activate` button (`E` on keyboard, `A` on Gamepad). The keys for this can be changed in this MCM, as well as the brightness and style of the lantern.
+
+### Skyrim Outfit System
+
+This mod allows you to have multiple outfit appearances that can be saved, favorited and switched or removed totally with the "Change Outfit" power. This mod allows you to wear any Armor including shields and jewelry while maintaining the appearance of the set you saved.  So you can get your Characters Look exactly how you want it, while wearing the stuff you need to buff your character with.
+
+Using this Mod is optional, but you MUST use the "Change Outfit" Power and select [NO OUTFIT] if you wish to see your character nude for Ostim scenes.  This power can be used after starting the scene if you forget to turn it off before the scene begins.  WARNING: The setting under Outfit settings (while creating a new Outfit) "Require Equipped Armors" **WILL NOT REMOVE YOUR UNDERWEAR.**  You must manually select [NO OUTFIT] each time you start a scene.
+
+_You must Favorite an Outfit to see it in the Change Outfit Power Menu_
+
+### Follower Framework
 
 Not strictly necessary, but your followers may wander around at times without this step. Go to **Activity** and enable _Only Sandbox in Town._ If you don't want your followers using your crafting stations, also enable _Ignore Special Furniture_
 
-## OStim
+### OStim
 
 The settings in this extensive mod are almost all down to personal preference. I recommend you simply "Import Settings" to get my recommendations (scroll all the way down, on the right). If you wish to customize the settings further, I recommend you read about the whole Suite of mods on Nexus. It's pretty cool stuff.
 
-### How To Use This Mod
+#### How To Use This Mod
 
 OStim/OSex is a little tough to get used to but the gist is that you use 8,4,5, and 6 on the NUMPAD like another set of WASD keys to move around in the OSex menus. 7 chooses a command, 9 swaps actors or functions, 1 cancels a command. + is inspect or advance scene, enter is open or close menu. Period or decimal ends the scene. Freecam is now enabled, but not automatically. Press the forward slash key on the NUMPAD to activate it.
 
@@ -109,6 +121,7 @@ If you encounter a scene that is terribly out of alignment, press the L key to o
 At any time you can go up to anyone and press the up arrow to have OSex sex with them. **NOTE: DO NOT INITIATE SEX WITH THE STANDARD OSA MENUS!** (Available via the ENTER key on your numpad.) _OStim_ overrides these, so they will not function.
 
 Creatures do not function with OSex and I have no plans to ever implement them.
+
 
 ## Immersive Equipment Displays
 
@@ -137,17 +150,3 @@ I would also recommend doing this for NPCs as well:
 
 NPC Items:
 1. In the custom view, select the tab "Global" ⇾ Select "Missile - NPCs" ⇾ Click on merge and accept
-
-## Quick Light
-
-Just as a note here, the free lantern can be turned on at any time by striking the 'NUMPAD 1' key or holding down the `Activate` button (`E` on keyboard, `A` on Gamepad). The keys for this can be changed in this MCM, as well as the brightness and style of the lantern.
-
-## Skyrim Outfit System
-
-This section is brought to you entirely by my devoted user `Palentier` who was convinced someting was wrong with this mod, prompting me to remove it, pissed off half my server, then made amends by realizing his mistake and writing this guide. Thanks a lot, man!
-
-This mod allows you to have multiple outfit appearances that can be saved, favorited and switched or removed totally with the "Change Outfit" power. This mod allows you to wear any Armor including shields and jewelry while maintaining the appearance of the set you saved.  So you can get your Characters Look exactly how you want it, while wearing the stuff you need to buff your character with.
-
-Using this Mod is optional, but you MUST use the "Change Outfit" Power and select [NO OUTFIT] if you wish to see your character nude for Ostim scenes.  This power can be used after starting the scene if you forget to turn it off before the scene begins.  WARNING: The setting under Outfit settings (while creating a new Outfit) "Require Equipped Armors" **WILL NOT REMOVE YOUR UNDERWEAR.**  You must manually select [NO OUTFIT] each time you start a scene.
-
-_You must Favorite an Outfit to see it in the Change Outfit Power Menu_

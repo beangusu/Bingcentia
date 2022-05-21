@@ -1,19 +1,3 @@
-- [Optional Mods](#optional-mods)
-  - [ENB Configurations](#enb-configurations)
-    - [Weather Options](#weather-options)
-  - [Ultrawide Options](#ultrawide-options)
-  - [Using A Controller](#using-a-controller)
-  - [NSFW Warnings](#nsfw-warnings)
-  - [Disabling NSFW](#disabling-nsfw)
-- [Character Creation](#character-creation)
-- [Post Character Creation](#post-character-creation)
-  - [In-Game MCM Options](#in-game-mcm-options)
-    - [Quick Light](#quick-light)
-    - [Skyrim Outfit System](#skyrim-outfit-system)
-    - [Follower Framework](#follower-framework)
-    - [OStim](#ostim)
-      - [How To Use This Mod](#how-to-use-this-mod)
-  - [Immersive Equipment Displays](#immersive-equipment-displays)
 
 # Optional Mods
 
@@ -23,7 +7,11 @@ This list comes shipped with FNENB/NLA Weathers along with Vicious Reshade. If y
 ### Weather Options
 If none of this really scratches your ENB itch, I've included a way to easily switch from NLA Weathers and FNENB. In the left pane of MO2, under the `Weathers` separator, is Cathedral Weathers, Obsidian Weathers, and NAT 3 with their respective patches but all disabled. 
 
-All you need to do take note of where these weather mods and their patches are in the right pane's load order, untick `NLA Weather plugin and resources` and `AOS - NLA Consistency Patch`, enable the weather mod of your choice with its patches, and place these plugins in the load order according to where you took note of them (if you forgot, refer to [Load Order Library](https://loadorderlibrary.com/lists/bingcentia)). [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077?tab=files) is also within the list for you to easily try out different ENBs as you like :)
+All you need to do take note of where these weather mods and their patches are in the right pane's load order, untick `NLA Weather plugin and resources`, `AOS - NLA Consistency Patch`, and `Particle Patch for NLA`, then enable the weather mod of your choice with its patches, and place these plugins in the load order according to where you took note of them (if you forgot, refer to [Load Order Library](https://loadorderlibrary.com/lists/bingcentia)). [ENB Organizer](https://www.nexusmods.com/skyrim/mods/67077?tab=files) is also within the list for you to easily try out different ENBs as you like :)
+
+## Curing Serana
+
+With the Serana replacer I've added to the list, comes a patch to revert Serana back to her human form. Once you've cured her in game, make a save, close the game, and enable `Cured Serana Patch` under the `Messin' with Serana` separator. Then you can hop back in the game and you're good.
 
 ## Ultrawide Options
 If you have an Ultrawide monitor, I've included some fixes you can enable under the `Possible Ultra Widescreen Fixes` separator.

@@ -29,6 +29,7 @@ Full Comparison of _Licentia_ and _Bingcentia_ is [here](https://loadorderlibrar
 - 4th Unknown's Dark Brotherhood Armor
 - Bunch of Jayserpa mods
 - Auri Enhanced Voice
+- Citizens of Tamriel Visual Overhual
 - Serana Fixed Cross Arms Animation
 - Awesome Potions Simplified with a patch for LOTD
 - Fuckton of JohnSkyrim's shiny retextures including his recent daggers overhaul
@@ -74,6 +75,8 @@ Things I removed from the main list:
 - Slip off Slopes
 - Mihail's monsters
 - You Hunger
+- Dwemer Weapons, Techm and Armor Glowmapped
+  > Planning on adding my own enb lights to the Dwemer shid
 - Sofia and Vilja
   > Not a fan of them plus Sofia keeps taking off her fuckign clothes when I test shit!!
 - Gladys and Merlin for plugin space :(
@@ -81,15 +84,11 @@ Things I removed from the main list:
 - Triple Triad
 - Genesis Unleashed
 - The Sinister Seven
-- Eekie's Kaidan
-  > Replaced with High Poly Kaidan
+- You Hunger
+- Eekie's Kaidan, Ella's Lucien, and Pandorable's Serana
+  > Replaced with replacers I personally enjoy more
 - Sink or Swim
 - OProstitution, OVirginity, OAroused, and OBooty 
-  >No sluts allowed. Joking, I'm just ehh about these mods
-- LOTD Lighting Mod 
-  > Made LOTD too bright imo
+  > No sluts allowed. Joking, I'm just ehh about these mods
 - Fixed Mesh Lighting 
   > Was a headache to make sure everything was working, adding it back in later tho
-
-<br>
-... Plus many other removals that I don't remember
